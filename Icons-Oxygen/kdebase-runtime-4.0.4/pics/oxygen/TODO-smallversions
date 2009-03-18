@@ -1,0 +1,100 @@
+This is the list of all the icons for which we need special versions.
+
+Check the examples in case you haven't understood from text, is much simplier sometimes =)
+
+---
+How to use it:
+
+- First, give a hand in completing the list. When you find an icon that
+  needs a special version, please add it here, in the "General" section.
+  Do the same, when the special version of an icon is not updated, but
+  in that please case add the icon also in the "Outdated" section, and 
+  uncheck ([*] --> []) the corrispetive icon in the "General" section.
+  The "General" part will contain all the icons that need a special
+  version.
+
+- When you do a new icon that does not scale perfectly at small sizes
+  (aka you need a special version), add an (unchecked) entry in the 
+  "General" section with the name of the icon and the sizes you need.
+
+- When you significantly update an icon, and you feel also the new
+  special version needs to be updated or even redone, please uncheck
+  the corrispetive entry in the "General" list. After that, please add
+  an entry in the "Outdated" section, putting just the name, without any
+  checkbox.
+
+How to update it when you do a small version:
+
+- If you have (re)made an *OUTDATED* icon, please remove the entry
+  from the "Outdated" section, and re-check the checkbox in "General".
+  ***NOTE: Do *NOT* remove the entry from the "General" section!!***
+  Please update all the needed sizes in this case
+
+- If you have made a *MISSING* special version for an icon, please check the
+  corrispective checkbox, in case you did all the needed versions. If not write
+  in the checkbox the sizes you made. See the examples.
+---
+
+---
+Syntax Examples:
+
+-- General --
+    []   foo   16 22    <-- Special versions for 16x16 and 22x22 are needed
+    [16] foo   16 22    <-- Special version is needed just for 22x22, 16x16 is already done
+    [*]  foo   16 22    <-- All the needed special versions have been made
+
+-- Outdated --
+    foo               <-- All the special versions of 'foo' are outdated (see the "General"
+                          section to know which sizes are needed). Please update it the sooner
+                          the possible. When you update it, please update all the sizes.
+---
+
+- The Oxygen Team -
+
+The format is: <icon-name> <needed sizes>.
+[]  = TODO! - unchecked
+[*] = Done, looks nice, updated - checked
+
+-----------------------
+------- General -------
+-----------------------
+** Actions
+[]  bell        16 22
+[]  flag-black  16 22
+[]  flag-blue   16 22
+[]  flag-green  16 22
+[]  flag-red    16 22
+[]  flag-yellow 16 22
+[]  flag        16 22
+[*] 1day        16 22
+[*] 5days       16 22
+[*] 7days       16 22
+
+** Apps
+
+** Categories
+
+** Devices
+
+** Emblems
+
+** Mimetypes
+
+** Places
+
+----------------------
+------ Outdated ------
+----------------------
+** Actions
+
+** Apps
+
+** Categories
+
+** Devices
+
+** Emblems
+
+** Mimetypes
+
+** Places
