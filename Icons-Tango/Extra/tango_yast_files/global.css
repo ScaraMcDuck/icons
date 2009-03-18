@@ -1,0 +1,507 @@
+/*    Hideout stylesheet
+      ===============================
+
+			stylesheet & artwork
+			(c) 2005-2007 Jakub 'jimmac' Steiner
+
+*/
+
+@import url('pulldownmenu.css') screen;
+@import url('navigation.css') screen;
+@import url('blog.css') screen;
+@import url('buttons.css') screen;
+@import url('flickr.css') screen;
+@import url('kwicks.css') screen;
+@import url('lastfm.css') screen;
+
+body {
+	font-family: Georgia, Bitstream Vera, Serif;
+	font-size: 9pt;
+	padding: 0px;
+  margin: 0px;
+	background-color: white;
+  color: black;
+}
+
+p {
+	line-height: 1.7em;
+	margin-bottom: 2em;
+}
+
+a {
+	color: #204a87;
+}
+
+a:visited {
+	color: #103a77;
+}
+
+a:hover {
+	color: #fcaf3e;
+}
+
+img {
+	padding: 0px;
+	border: none;
+	margin: 0px;
+}
+
+blockquote {
+	display: block;
+	font-style: italic;
+	margin: 2em;
+}
+
+blockquote:before {
+	content: '“';
+}
+
+blockquote:after {
+	content: '”';
+}
+
+ul {
+	margin: 2em;
+}
+
+ul li {
+	list-style-image: url('../images/icons/bullet.png');
+	margin-bottom: 4px;
+}
+
+ul li.crossed {
+	text-decoration: line-through;
+}
+
+br.clear {
+	clear: both;
+}
+
+div#topstripe {
+	display: block;
+	margin: 0px;
+	width: 100%;
+	height: 100px;
+	background-color: black;
+}
+
+div#maincontainer {
+	margin: 0px;
+	width: 640px;
+	background-color: white;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+div#body {
+	padding: 5px;
+	margin-left: 200px;
+	margin-right: 20px;
+	min-height: 70em;
+	width: 430px;
+}
+
+/*
+div#body p,
+div#body ul,
+div#body ol,
+div#body div {
+	margin-left: 20px;
+}
+*/
+
+div#body h1 {
+	margin-left: 0px;
+}
+
+div#splash {
+	width: 640px;
+	height: 16px;
+	margin: 0px;
+	padding: 0px;
+	z-index: 1;
+	position: relative;
+}
+
+div#splash * {
+	position: absolute;
+	bottom: 10px;
+	left: 10px;
+}
+
+div#footer {
+	background-color: #1e2426;
+	color: #bbb;
+	width: 100%;
+	margin: 10px 0px 0px 0px;
+	padding: 0px;
+	font-size: 10px;
+	border-top: 1px solid black;
+	min-height: 20em;
+}
+
+div#footercontainer {
+	background-color: #2e3436;
+	width: 580px;
+	padding: 1em 1em 1em 4em;
+	margin: 0px auto;
+	min-height: 10em;
+}
+
+div.copy p {
+	margin-left: 150px;
+}
+
+div.menuicons,
+div.toolbaricons {
+	padding: 4px 16px;
+	background-color: #f6f6f6;
+	border-top: 1px solid #eee;
+	border-bottom: 1px solid #eee;
+	margin-bottom: 10px;
+}
+
+div.icons a {
+	padding: 2px;
+	margin: 0px;
+}
+
+
+div#leftcolumn {
+	width: 180px;
+	float: left;
+}
+
+  div#leftcolumn div.quote {
+    font-size: 9px;
+    font-family: Verdana, "Bitstream Vera Sans", Sans-Serif;
+    margin-top: 100px;
+    color: #555;
+    line-height: 3em;
+    background-color: #eee;
+    border-top: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    padding: 10px;
+  }
+
+  div.quote p {
+    margin: 0px 0px 10px 0px;
+  }
+
+  #tweet {margin-top: 1em; clear: left; }
+  #tweet h2 { padding-top: 1em; }
+  #tweet ul {margin: .2em; padding: 0;}
+  #tweet li { 
+    font-size: 80%; 
+    display: block; 
+    list-style-type: none; 
+    margin: .2em 2px; 
+    padding: .5em;
+  }
+  #tweet li:hover { 
+    margin: .2em 0; 
+    border-left: 2px solid #ddd; 
+    border-right: 2px solid #ddd;
+    background-color: #f6f6f6;
+  }
+  #tweet a { text-decoration: none; }
+  #tweet a:hover { text-decoration: underline; }
+
+
+  /*
+  div.quote:before {
+    content: "``";
+  }
+
+  div.quote:after {
+    content: ",,";
+  }
+  */
+
+h1 {
+	font-size: 14pt;
+	color: #666;
+	padding: 4px 0px 4px 0px;
+	margin: 0px 0px 12px 0px;
+	border-bottom: 1px dotted #bbb;
+}
+
+h2 {
+	font-size: 12pt;
+	color: #666;
+	padding: 0px 0px 5px 0px;
+	margin-bottom: 5px;
+	border-bottom: 1px solid #bbb;
+	font-weight: normal;
+}
+
+div.floatingimage {
+	margin: 0px auto 10px auto;
+	max-width: 400px;
+	padding: 4px;
+}
+
+div.floatingimage div.label {
+	color: #888;
+	display: block;
+	margin: 4px 0px;
+	padding: 4px;
+}
+
+div.floatingimage img {
+	display: block;
+	/* apparently causing trouble for opera
+	max-width: 400px;
+	/* width: inherit; 
+	height: inherit; */
+	margin: 0px auto;
+}
+
+table {
+	margin: 10px auto;
+	width: 300px;
+}
+
+table.resultlist {
+	width: 100%;
+	border: 1px dotted gray;
+	border-collapse: collapse;
+}
+
+table.resultlist tr {
+	background-color: white;
+	margin: 0px;
+}
+
+table.resultlist tr.sudy {
+	background-color: #f4f4f4;
+}
+
+table.resultlist th{
+	text-align: left;
+	color: white;
+	background-color: gray;
+	padding: 3px;
+}
+
+table.resultlist td {
+	text-align: left;
+	padding: 4px;
+}
+
+tr td:first-child { /* prvni sloupce */
+	font-weight: bold;
+	color: #555;
+}
+
+a.formatdoc {
+	padding-left: 20px;
+	padding-bottom: 3px;
+	background: transparent url('../images/doc.png') top left no-repeat;
+}
+
+a.formatpdf {
+	padding-left: 20px;
+	padding-bottom: 3px;
+	background: transparent url('../images/pdf.png') top left no-repeat;
+}
+
+div.wallpaperthumb {
+	display: block;
+	float: left;
+}
+
+div.wallpaperthumb a img {
+	margin: 6px;
+	border: 2px solid #444;
+}
+
+div.wallpaperthumb a:hover img {
+	margin: 5px;
+	border: 3px solid black;
+}
+
+div.thumbs {
+	display: block;
+	width: 100%;
+}
+
+
+div.thumbs a {
+	margin-right: 4px;
+}
+
+.terminal {
+	margin: 9px;
+	border: 1px solid #aaa;
+	background-color: #333;
+	color: #ddd;
+	font-family: "Andale Mono", Courier, Monospace;
+	white-space: pre;
+	font-size: 9px;
+	padding: 15px;
+}
+
+.terminal span.shell {
+	color: #888;
+}
+
+div.icons {
+	width: 400px;
+	margin: auto;
+}
+
+div.icons img {
+	margin: 5px;
+}
+
+/* Icon Page Gallery List */
+
+ul.icongallery {
+	margin: 0px;
+	padding: 0px;
+}
+
+ul.icongallery li {
+	padding: 0px;
+	margin: 2px;
+	display: block;
+	width: 120px;
+	height: 5.2em;
+	float: left;
+}
+
+ul.icongallery li a {
+	display: block;
+	width: 100px;
+	height: 3.5em;
+	border: 2px solid #aaa;
+	margin: 1px;
+	padding: 6px;
+	text-decoration: none;
+}
+
+ul.icongallery li.locked a {
+	background: white url("../images/icons/lock.png") bottom right no-repeat;
+}
+
+ul.icongallery li a:link {
+	background-color: #f6f6f6;
+}
+
+ul.icongallery li a:visited {
+	background-color: #ddd;
+}
+
+ul.icongallery li a:hover {
+	border-left: 2px solid black;
+	border-right: 2px solid black;
+	/* background-color: white; */
+}
+
+ul.music {
+	margin: 1em;
+	padding: 0em;
+}
+
+ul.music li {
+	display: block;
+	width: 184px;
+	height: 40px;
+	margin: 2px;
+	background: url('../images/music-button.png') transparent no-repeat;
+}
+
+ul.music a {
+	display: block;
+	padding: 10px 0px 10px 36px;
+	width: 100%;
+}
+/* Logos List */
+
+div.logogallery {
+	margin: 0px;
+	padding: 0px;
+}
+
+div.logogallery img {
+	vertical-align: top;
+}
+
+div.logogallery a {
+	display: block;
+	float: left;
+	width: 180px;
+	border: 2px solid #aaa;
+	margin: 3px;
+	padding: 4px 8px;
+	text-decoration: none;
+	text-align: center;
+}
+
+div.logogallery a:link {
+	background-color: #eee;
+}
+
+div.logogallery a:visited {
+	background-color: #ddd;
+}
+
+div.logogallery a:hover {
+	border-left: 2px solid black;
+	border-right: 2px solid black;
+	/* background-color: white; */
+}
+
+a.video {
+	display: block;
+	height: 32px;
+	padding-left: 36px;
+	background: transparent url("../images/icons/video-icon.png") top left no-repeat;
+}
+
+ul.music li {
+	/* 
+	list-style-image: url("../images/icons/audio-icon.png");
+	*/
+}
+
+ul.themesets li {
+	display: none;
+}
+
+ul.themesets li:first-child {
+	display: list-item;
+	list-style-image: url('/images/icons/slideshow.png');
+}
+
+/* FIXME: temporary frontpage stuff */
+#mangobanner {
+  display: block;
+  border: 0;
+  position: relative;
+  width: 430px;
+  height: 200px;
+  overflow: hidden;
+  margin-bottom: 10px;
+}
+
+  #mangobanner>img {
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 430px;
+    height: 400px;
+    border: 0;
+ }
+  #mangobanner>img.hoverimage {
+    top: -200px;
+    display: none;
+  }
+
+ /* 
+  #mangobanner:hover>img {
+    top: -200px;
+  }
+  */

@@ -1,0 +1,44 @@
+/*    Dark stylesheet
+      ===============================
+
+			stylesheet & artwork
+			(c) 2006 Jakub 'jimmac' Steiner
+
+*/
+
+/* let's start off with the default stuff */
+@import url('global.css') screen;
+@import url('pulldownmenu.css') screen;
+@import url('navigation.css') screen;
+@import url('blog.css') screen;
+@import url('buttons.css') screen;
+
+body {
+	font-family: Myriad, Segoe, "Bitstream Vera Sans", Sans-Serif;
+	font-size: 9pt;
+	padding: 0px;
+  margin: 0px;
+	background-color: #babdb6;
+}
+
+p {
+	line-height: 1.7em;
+	margin-bottom: 2em;
+}
+
+a {
+	color: #555;
+}
+
+a:visited {
+	color: #666;
+}
+
+a:hover {
+	color: black;
+}
+
+.content {
+	color: #555753;
+}
+

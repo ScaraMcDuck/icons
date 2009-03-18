@@ -1,0 +1,15 @@
+/* this stylesheet only contains non-standard properties */
+
+div#footercontainer {
+	-moz-border-radius-bottomright: 15px;
+	-moz-border-radius-bottomleft: 15px;
+}
+
+#tweet li { 
+    -moz-border-radius: 5px;
+}
+
+.terminal {
+  -moz-border-radius: 5px;
+}
+
