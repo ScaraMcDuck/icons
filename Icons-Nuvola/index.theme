@@ -1,0 +1,204 @@
+[Icon Theme]
+Name=Nuvola theme
+Name[ca]=Tema nuvola
+Name[cs]=Nuvola motiv
+Name[da]=Nuvola-tema
+Name[de]=Nuvoladesign
+Name[el]=Θέμα Nuvola
+Name[eo]=Etoso de Nuvola
+Name[et]=Nuvola teema
+Name[fa]=چهره Nuvola
+Name[fi]=Nuvola-teema
+Name[fr]=Thème Nuvola
+Name[ga]=Téama Nuvola
+Name[gl]=Tema Nuvola
+Name[hu]=Nuvola téma
+Name[is]=Nuvola þema
+Name[it]=Tema nuvola
+Name[ja]=Nuvola テーマ
+Name[mk]=Нувола (тема)
+Name[nb]=Nuvola-tema
+Name[nds]=Nuvola
+Name[ne]=न्युभोला विषयवस्तु
+Name[nl]=Nuvola-thema
+Name[nn]=Nuvola-temaet
+Name[pl]=Motyw Nuvola
+Name[pt]=Tema Nuvola
+Name[pt_BR]=Tema Nuvola
+Name[sl]=Tema Nuvola
+Name[sv]=Nuvola-tema
+Name[tr]=Nuvola teması
+Name[uk]=Тема Nuvola
+Name[vi]=Sắc thái Nuvola
+Name[x-test]=xxNuvola themexx
+Name[zh_CN]=Nuvola 主题
+Name[zh_TW]=Nuvola Theme
+Comment=Icon Theme by David Vignoni ( icon-king.com ) - 2003-2004
+Comment[ca]=Tema d'icones per David Vignoni ( icon-king.com ) - 2003-2004
+Comment[cs]=Icon Theme od Davida Vignoniho ( icon-king.com ) - 2003-2004
+Comment[da]=Ikontema af David Vignoni ( icon-king.com ) - 2003-2004
+Comment[de]=Symboldesign von David Vignoni ( icon-king.com ) - 2003-2004
+Comment[el]=Θέμα εικονιδίων από τον David Vignoni ( icon-king.com ) - 2003-2004
+Comment[eo]=Piktogrametoso de David Vignoni (icon-king.com) - 2003-2004
+Comment[et]=David Vignoni ( icon-king.com ) ikooniteema - 2003-2004
+Comment[fa]=چهره شمایل توسط دیوید ویگنونی ( icon-king.com ) - 2003-2004
+Comment[fi]=David Vignonin (icon-king.com) kuvaketeema - 2003-2005
+Comment[fr]=Thème d'icônes par David Vignoni (icon-king.com) 2003-2004
+Comment[ga]=Téama Deilbhíní le David Vignoni ( icon-king.com ) - 2003-2004
+Comment[gl]=Ícones de David Vignono ( icon-king.com ) - 2003-2004
+Comment[hu]=Ikontéma, készítette: David Vignoni ( icon-king.com ), 2003-2004.
+Comment[is]=Táknmyndaþema eftir David Vignoni ( icon-king.com ) - 2003-2004
+Comment[it]=Tema di icone di David Vignoni ( icon-king.com ) - 2003-2004
+Comment[ja]=David Vignoni (icon-king.com) によるアイコンテーマ - 2003-2004
+Comment[mk]=Тема со икони од David Vignoni ( icon-king.com ) - 2003-2004
+Comment[nb]=Ikontema laget av David Vignoni ( icon-king.com ) – 2003-2004
+Comment[nds]=Lüttbildmuster vun David Vignoni (icon-king.com) - 2003-2004
+Comment[ne]=डेभिड भिग्नोनीद्वारा प्रतिमा विषयवस्तु ( icon-king.com ) - 2003-2004
+Comment[nl]=Pictogramthema door David Vignoni ( icon-king.com ) - 2003-2004
+Comment[nn]=Ikontema av David Vignoni (icon-king.com) – 2003–2004
+Comment[pl]=Motyw ikon autorstwa Davida Vignoti'ego (icon-king.com) - 2003-2004
+Comment[pt]=Tema de Ícones de David Vignoni ( icon-king.com ) - 2003-2004
+Comment[pt_BR]=Tema de Ícones por David Vignoni ( icon-king.com ) - 2003-2004
+Comment[sl]=Tema ikon Davida Vignoni-ja ( icon-king.com ) - 2003-2004
+Comment[sv]=Ikontema av David Vignoni (icon-king.com) - 2003-2004
+Comment[uk]=Тема піктограм від David Vignoni ( icon-king.com ) - 2003-2004
+Comment[vi]=Sắc thái biểu tượng của David Vignoni ( icon-king.com ) - năm 2003-2004
+Comment[x-test]=xxIcon Theme by David Vignoni ( icon-king.com ) - 2003-2004xx
+Comment[zh_CN]=David Vignoni (icon-king.com) 在 2003－2004 年间制作的图标主题
+Comment[zh_TW]=由 David Vignoni（icon-king.com）- 2003-2004 設計的圖示主題
+DisplayDepth=32
+
+Inherits=hicolor
+
+Example=folder
+LinkOverlay=link
+LockOverlay=lockoverlay
+ShareOverlay=share
+ZipOverlay=zip
+DesktopDefault=48
+DesktopSizes=16,22,32,48,64,128
+ToolbarDefault=22
+ToolbarSizes=16,22,32,48
+MainToolbarDefault=22
+MainToolbarSizes=16,22,32,48
+SmallDefault=16
+SmallSizes=16
+PanelDefault=32
+PanelSizes=16,22,32,48,64,128
+Directories=16x16/actions,16x16/apps,16x16/devices,16x16/filesystems,16x16/mimetypes,22x22/actions,22x22/apps,22x22/filesystems,22x22/mimetypes,32x32/actions,32x32/apps,32x32/devices,32x32/filesystems,32x32/mimetypes,48x48/actions,48x48/apps,48x48/devices,48x48/filesystems,48x48/mimetypes,64x64/actions,64x64/apps,64x64/devices,64x64/filesystems,64x64/mimetypes,128x128/actions,128x128/apps,128x128/devices,128x128/filesystems,128x128/mimetypes
+[16x16/actions]
+Size=16
+Context=Actions
+Type=Threshold
+[16x16/apps]
+Size=16
+Context=Applications
+Type=Threshold
+[16x16/devices]
+Size=16
+Context=Devices
+Type=Threshold
+[16x16/filesystems]
+Size=16
+Context=FileSystems
+Type=Threshold
+[16x16/mimetypes]
+Size=16
+Context=MimeTypes
+Type=Threshold
+[22x22/actions]
+Size=22
+Context=Actions
+Type=Threshold
+[22x22/apps]
+Size=22
+Context=Applications
+Type=Threshold
+[22x22/filesystems]
+Size=22
+Context=FileSystems
+Type=Threshold
+[22x22/mimetypes]
+Size=22
+Context=MimeTypes
+Type=Threshold
+[32x32/actions]
+Size=32
+Context=Actions
+Type=Threshold
+[32x32/apps]
+Size=32
+Context=Applications
+Type=Threshold
+[32x32/devices]
+Size=32
+Context=Devices
+Type=Threshold
+[32x32/filesystems]
+Size=32
+Context=FileSystems
+Type=Threshold
+[32x32/mimetypes]
+Size=32
+Context=MimeTypes
+Type=Threshold
+[48x48/actions]
+Size=48
+Context=Actions
+Type=Threshold
+[48x48/apps]
+Size=48
+Context=Applications
+Type=Threshold
+[48x48/devices]
+Size=48
+Context=Devices
+Type=Threshold
+[48x48/filesystems]
+Size=48
+Context=FileSystems
+Type=Threshold
+[48x48/mimetypes]
+Size=48
+Context=MimeTypes
+Type=Threshold
+[64x64/actions]
+Size=64
+Context=Actions
+Type=Threshold
+[64x64/apps]
+Size=64
+Context=Applications
+Type=Threshold
+[64x64/devices]
+Size=64
+Context=Devices
+Type=Threshold
+[64x64/filesystems]
+Size=64
+Context=FileSystems
+Type=Threshold
+[64x64/mimetypes]
+Size=64
+Context=MimeTypes
+Type=Threshold
+[128x128/actions]
+Size=128
+Context=Actions
+Type=Threshold
+[128x128/apps]
+Size=128
+Context=Applications
+Type=Threshold
+[128x128/devices]
+Size=128
+Context=Devices
+Type=Threshold
+[128x128/filesystems]
+Size=128
+Context=FileSystems
+Type=Threshold
+[128x128/mimetypes]
+Size=128
+Context=MimeTypes
+Type=Threshold
