@@ -1,0 +1,73 @@
+/* 
+Title:		Tables stylesheet
+Description:	Table specific styles
+Created:	19/06/2009
+Modified:	19/06/2009
+*/
+
+/* redefine table specific xhtml selectors
+---------------------------------------------------------- */
+
+table {
+	font-family: "Helvetica", Verdana, Arial, sans-serif;
+	color: #4c4c4c;
+	font-size: 11px;
+}
+
+caption {
+
+}
+
+tr {
+
+}
+
+th {
+	text-align: left;
+	font-weight: bold;
+	background-color: #e8e8e8;
+	height: 30px;
+	padding-left: 20px;
+}
+
+td {
+	height: 30px;
+	font-size: 12px;
+	padding-left: 20px;
+}
+
+td a{
+	color: #dd0324;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+td a:hover{
+	text-decoration: underline;
+}
+
+
+thead {
+
+}
+
+tbody {
+
+}
+
+tfoot {
+
+}
+
+/* site table specific styles
+---------------------------------------------------------- */
+
+.listing {
+	width: 100%;
+}
+
+.listing td{
+	background-image: url(img/bg_table_row.gif);
+	background-repeat: repeat-x;
+}
+

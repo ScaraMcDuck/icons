@@ -1,0 +1,22 @@
+name = EhB 2009
+description = Contemporary look and feel for the EhB websites
+version = 0.1
+core = 6.x
+engine = phptemplate
+
+regions[searchform] = Search form in header
+regions[navigation] = Horizontal main navigation bar
+regions[preface] = Main preface frontpage
+regions[sidebar] = Sidebar (right)
+regions[content_bottom] = Content bottom
+regions[footer] = Footer
+regions[closure] = Closure
+
+stylesheets[screen][] = screen.css
+stylesheets[screen][] = nice_menus_override.css
+stylesheets[screen][] = forms.css
+stylesheets[screen][] = layout.css
+stylesheets[screen][] = tables.css
+stylesheets[print][] = print.css
+
+scripts[] = scripts.js
