@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="text/ecmascript" width="13" baseProfile="tiny" zoomAndPan="magnify" contentStyleType="text/css" viewBox="0 0 13 13" height="13" preserveAspectRatio="xMidYMid meet" version="1.1">
+    <defs>
+        <linearGradient x1="30.06" y1="30.06" x2="225.94001" gradientUnits="userSpaceOnUse" y2="225.94001" xlink:type="simple" xlink:actuate="onLoad" id="RSSg" xlink:show="other">
+            <stop stop-color="#e3702d" offset="0.0"/>
+            <stop stop-color="#ea7d31" offset="0.1071"/>
+            <stop stop-color="#f69537" offset="0.3503"/>
+            <stop stop-color="#fb9e3a" offset="0.5"/>
+            <stop stop-color="#ea7c31" offset="0.7016"/>
+            <stop stop-color="#de642b" offset="0.8866"/>
+            <stop stop-color="#d95b29" offset="1.0"/>
+        </linearGradient>
+    </defs>
+    <g transform="matrix(4.2720734e-2,0,0,4.2720734e-2,1.031746,1.031746)">
+        <rect x="0" y="0" fill="#cc5d15" width="256" rx="55" ry="55" height="256"/>
+        <rect x="5" y="5" fill="#f49c52" width="246" rx="50" ry="50" height="246"/>
+        <rect x="10" y="10" fill="url(#RSSg)" width="236" rx="47" ry="47" height="236"/>
+        <circle fill="#ffffff" r="24" cx="68" cy="189"/>
+        <path fill="#ffffff" d="M 160.0 213.0 L 126.0 213.0 C 126.0 167.71265 89.28735 131.0 44.0 131.0 L 44.0 97.0 C 108.06503 97.0 160.0 148.93497 160.0 213.0 z "/>
+        <path fill="#ffffff" d="M 184.0 213.0 C 184.0 135.68015 121.31986 73.0 44.0 73.0 L 44.0 38.0 C 140.64983 38.0 219.0 116.35017 219.0 213.0 L 184.0 213.0 z "/>
+    </g>
+</svg>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="text/ecmascript" width="27.999" baseProfile="tiny" zoomAndPan="magnify" contentStyleType="text/css" viewBox="0 0 27.999 32" height="32" preserveAspectRatio="xMidYMid meet" version="1.0">
+    <defs>
+        <linearGradient x1="10" y1="4.2328043" x2="10" gradientUnits="userSpaceOnUse" y2="14.645503" xlink:type="simple" xlink:actuate="onLoad" xlink:show="other">
+            <stop stop-opacity="1" stop-color="#ffffff" offset="0"/>
+            <stop stop-opacity="1" stop-color="#ebece8" offset="1"/>
+        </linearGradient>
+        <linearGradient x1="9.9995" gradientTransform="scale(1,4.5714286)" y1="0.873" x2="9.9995" gradientUnits="userSpaceOnUse" y2="6.123" xlink:type="simple" xlink:actuate="onLoad" xlink:show="other">
+            <stop stop-color="#ffffff" offset="0"/>
+            <stop stop-color="#def0ff" offset="1"/>
+        </linearGradient>
+        <linearGradient x1="10" gradientTransform="matrix(1,0,0,1.0015,0,20)" y1="32" x2="10" gradientUnits="userSpaceOnUse" y2="5.7524" xlink:type="simple" xlink:actuate="onLoad" xlink:show="other">
+            <stop stop-color="#ffffff" offset="0"/>
+            <stop stop-color="#f7fcff" offset="0.0869"/>
+            <stop stop-color="#cae7ff" offset="0.6348"/>
+            <stop stop-color="#cae7ff" offset="1"/>
+        </linearGradient>
+        <linearGradient xlink:type="simple" xlink:actuate="onLoad" xlink:show="other">
+            <stop stop-opacity="1" stop-color="#ffffff" offset="0"/>
+            <stop stop-opacity="1" stop-color="#f1f2ef" offset="1"/>
+        </linearGradient>
+    </defs>
+    <rect fill-opacity="1" display="inline" stroke="none" visibility="visible" stroke-linecap="square" width="12.021338" stroke-miterlimit="4" stroke-opacity="1" fill="#729fcf" stroke-dasharray="none" stroke-width="1" color="#000000" height="2.9014678" x="16.091139" stroke-linejoin="miter" y="3.2967348" stroke-dashoffset="0" fill-rule="nonzero"/>
+    <path fill="#d9ddd4" d="M 15.735 9.833613 C 15.735 20.994438 15.735 24.714716 15.735 32.155266 L 28.0915 32.155266 C 28.0915 17.274164 28.0915 13.553888 28.0915 6.1133375 L 15.735 6.1133375 L 15.735 9.833613 z " fill-opacity="1"/>
+    <polygon fill="#555753" fill-opacity="1" transform="matrix(0,1.3235978,-1.2,0,16.237399,5.6716065)" stroke-opacity="0.4" points="0,0.002 0,1 0,1.002 20,1.002 20,1 20,0.002 0,0.002 "/>
+    <polygon fill="#555753" fill-opacity="1" transform="matrix(0.4549091,0,0,1.1828367,19.007193,2.1194246)" stroke-opacity="0.4" points="0,0.002 0,1 0,1.002 20,1.002 20,1 20,0.002 0,0.002 "/>
+    <path transform="matrix(3.5063952,0,0,3.4087982,-73.307334,0.4814402)" fill-opacity="1" fill="none" stroke-dasharray="none" d="M 25.36562 1.6775882 C 25.351536 1.402718 25.454376 1.1347154 25.648718 0.9398229 C 25.84306 0.7449304 26.110771 0.64133406 26.38568 0.6546399 " stroke="#555753" stroke-width="0.34709644" stroke-opacity="1" stroke-miterlimit="4"/>
+</svg>

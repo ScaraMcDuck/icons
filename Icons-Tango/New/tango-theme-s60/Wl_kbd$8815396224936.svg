@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="text/ecmascript" width="100" baseProfile="tiny" zoomAndPan="magnify" contentStyleType="text/css" viewBox="0 0 100 100" height="100" preserveAspectRatio="none" version="1.0">
+    <defs>
+        <linearGradient x1="4.2964764" gradientTransform="matrix(0.9644306,0,0,0.9614211,0.8618226,0.6342073)" y1="3.5751467" x2="39.552456" gradientUnits="userSpaceOnUse" y2="38.913116" xlink:type="simple" xlink:actuate="onLoad" id="linearGradient3866" xlink:show="other">
+            <stop stop-opacity="1" stop-color="#eeeeec" offset="0"/>
+            <stop stop-opacity="0" stop-color="#eeeeec" offset="1"/>
+        </linearGradient>
+        <radialGradient gradientTransform="matrix(1,0,0,0.201878,0,36.03783)" id="radialGradient3864" gradientUnits="userSpaceOnUse" xlink:show="other" xlink:type="simple" r="13.474453" cx="30.428225" fx="30.428225" cy="45.153286" fy="45.153286" xlink:actuate="onLoad">
+            <stop stop-opacity="1" stop-color="#000000" offset="0"/>
+            <stop stop-opacity="0" stop-color="#000000" offset="1"/>
+        </radialGradient>
+        <linearGradient xlink:type="simple" xlink:actuate="onLoad" id="linearGradient4009" xlink:show="other">
+            <stop stop-opacity="1" stop-color="#ffffff" offset="0"/>
+            <stop stop-opacity="0" stop-color="#ffffff" offset="1"/>
+        </linearGradient>
+        <linearGradient x1="11.889878" y1="19.735689" x2="17.700642" gradientUnits="userSpaceOnUse" y2="52.666264" xlink:type="simple" xlink:actuate="onLoad" id="linearGradient4009" xlink:show="other">
+            <stop stop-opacity="1" stop-color="#ffffff" offset="0"/>
+            <stop stop-opacity="0" stop-color="#ffffff" offset="1"/>
+        </linearGradient>
+        <linearGradient xlink:type="simple" xlink:actuate="onLoad" id="linearGradient3997" xlink:show="other">
+            <stop stop-opacity="1.0000000" stop-color="#ebebeb" offset="0.0000000"/>
+            <stop stop-opacity="1.0000000" stop-color="#acacac" offset="1.0000000"/>
+        </linearGradient>
+        <linearGradient x1="12.094494" y1="20.937023" x2="30.141907" gradientUnits="userSpaceOnUse" y2="43.377968" xlink:type="simple" xlink:actuate="onLoad" id="linearGradient3997" xlink:show="other">
+            <stop stop-opacity="1.0000000" stop-color="#ebebeb" offset="0.0000000"/>
+            <stop stop-opacity="1.0000000" stop-color="#acacac" offset="1.0000000"/>
+        </linearGradient>
+        <radialGradient gradientTransform="matrix(-2.774389,0,0,1.969706,112.7623,-872.8854)" id="radialGradient6719" gradientUnits="userSpaceOnUse" xlink:show="other" xlink:type="simple" r="117.14286" cx="605.71429" fx="605.71429" cy="486.64789" fy="486.64789" xlink:actuate="onLoad">
+            <stop stop-opacity="1" stop-color="#000000" offset="0"/>
+            <stop stop-opacity="0" stop-color="#000000" offset="1"/>
+        </radialGradient>
+        <linearGradient xlink:type="simple" xlink:actuate="onLoad" id="linearGradient5060" xlink:show="other">
+            <stop stop-opacity="1" stop-color="#000000" offset="0"/>
+            <stop stop-opacity="0" stop-color="#000000" offset="1"/>
+        </linearGradient>
+        <radialGradient gradientTransform="matrix(2.774389,0,0,1.969706,-1891.633,-872.8854)" id="radialGradient6717" gradientUnits="userSpaceOnUse" xlink:show="other" xlink:type="simple" r="117.14286" cx="605.71429" fx="605.71429" cy="486.64789" fy="486.64789" xlink:actuate="onLoad">
+            <stop stop-opacity="1" stop-color="#000000" offset="0"/>
+            <stop stop-opacity="0" stop-color="#000000" offset="1"/>
+        </radialGradient>
+        <linearGradient xlink:type="simple" xlink:actuate="onLoad" id="linearGradient5048" xlink:show="other">
+            <stop stop-opacity="0" stop-color="#000000" offset="0"/>
+            <stop stop-opacity="1" stop-color="#000000" offset="0.5"/>
+            <stop stop-opacity="0" stop-color="#000000" offset="1"/>
+        </linearGradient>
+        <linearGradient gradientTransform="matrix(2.774389,0,0,1.969706,-1892.179,-872.8854)" id="linearGradient6715" gradientUnits="userSpaceOnUse" xlink:show="other" xlink:type="simple" x1="302.85715" y1="366.64789" y2="609.50507" x2="302.85715" xlink:actuate="onLoad">
+            <stop stop-opacity="0" stop-color="#000000" offset="0"/>
+            <stop stop-opacity="1" stop-color="#000000" offset="0.5"/>
+            <stop stop-opacity="0" stop-color="#000000" offset="1"/>
+        </linearGradient>
+        <linearGradient xlink:type="simple" xlink:actuate="onLoad" id="linearGradient4548" xlink:show="other">
+            <stop stop-opacity="1" stop-color="#8c8c8c" offset="0"/>
+            <stop stop-opacity="0" stop-color="#8c8c8c" offset="1"/>
+        </linearGradient>
+        <linearGradient x1="11.502602" y1="14.910534" x2="35.257027" gradientUnits="userSpaceOnUse" y2="5.0110388" xlink:type="simple" xlink:actuate="onLoad" id="linearGradient4548" xlink:show="other">
+            <stop stop-opacity="1" stop-color="#8c8c8c" offset="0"/>
+            <stop stop-opacity="0" stop-color="#8c8c8c" offset="1"/>
+        </linearGradient>
+        <radialGradient gradientTransform="matrix(1,0,0,0.536723,0,16.87306)" gradientUnits="userSpaceOnUse" xlink:type="simple" r="15.644737" xlink:actuate="onLoad" cx="24.837126" cy="36.421127" xlink:show="other" fx="24.837126" fy="36.421127">
+            <stop stop-opacity="1" stop-color="#000000" offset="0"/>
+            <stop stop-opacity="0" stop-color="#000000" offset="1"/>
+        </radialGradient>
+        <linearGradient xlink:type="simple" xlink:actuate="onLoad" xlink:show="other">
+            <stop stop-opacity="1" stop-color="#000000" offset="0"/>
+            <stop stop-opacity="0" stop-color="#000000" offset="1"/>
+        </linearGradient>
+        <linearGradient x1="-9.0970707" gradientTransform="translate(-2.565841,12.18773)" y1="0.53929508" x2="-8.1640377" gradientUnits="userSpaceOnUse" y2="5.2044597" xlink:type="simple" xlink:actuate="onLoad" xlink:show="other">
+            <stop stop-opacity="1" stop-color="#eeeeec" offset="0"/>
+            <stop stop-opacity="0" stop-color="#eeeeec" offset="1"/>
+        </linearGradient>
+        <linearGradient x1="-9.0970707" gradientTransform="translate(5.831456e-2,0)" y1="0.53929508" x2="-7.9307799" gradientUnits="userSpaceOnUse" y2="7.1871548" xlink:type="simple" xlink:actuate="onLoad" xlink:show="other">
+            <stop stop-opacity="1" stop-color="#eeeeec" offset="0"/>
+            <stop stop-opacity="0" stop-color="#eeeeec" offset="1"/>
+        </linearGradient>
+        <linearGradient x1="-25.489601" y1="-9.1069841" x2="-7.053905" gradientUnits="userSpaceOnUse" y2="28.680851" xlink:type="simple" xlink:actuate="onLoad" xlink:show="other">
+            <stop stop-opacity="1" stop-color="#eeeeec" offset="0"/>
+            <stop stop-opacity="0" stop-color="#eeeeec" offset="1"/>
+        </linearGradient>
+        <radialGradient gradientTransform="matrix(0.476508,1.385714,-1.143167,0.393103,3.37206,27.71168)" gradientUnits="userSpaceOnUse" xlink:type="simple" r="13.390625" xlink:actuate="onLoad" cx="-18.659655" cy="7.4280534" xlink:show="other" fx="-18.659655" fy="7.4280534">
+            <stop stop-opacity="1" stop-color="#ff4e4e" offset="0"/>
+            <stop stop-opacity="1" stop-color="#c00" offset="1"/>
+        </radialGradient>
+        <linearGradient xlink:type="simple" xlink:actuate="onLoad" xlink:show="other">
+            <stop stop-opacity="1" stop-color="#ff4e4e" offset="0"/>
+            <stop stop-opacity="1" stop-color="#c00" offset="1"/>
+        </linearGradient>
+        <linearGradient xlink:type="simple" xlink:actuate="onLoad" xlink:show="other">
+            <stop stop-opacity="1" stop-color="#eeeeec" offset="0"/>
+            <stop stop-opacity="0" stop-color="#eeeeec" offset="1"/>
+        </linearGradient>
+        <linearGradient x1="-25.489601" y1="-9.1069841" x2="-7.053905" gradientUnits="userSpaceOnUse" y2="28.680851" xlink:type="simple" xlink:actuate="onLoad" xlink:show="other">
+            <stop stop-opacity="1" stop-color="#eeeeec" offset="0"/>
+            <stop stop-opacity="0" stop-color="#eeeeec" offset="1"/>
+        </linearGradient>
+        <linearGradient gradientTransform="matrix(1.9585874,0,0,1.9585874,4.5852705,1.7037419)" id="linearGradient10482" gradientUnits="userSpaceOnUse" xlink:show="other" xlink:type="simple" x1="12.094494" y1="20.937023" y2="43.377968" x2="30.141907" xlink:actuate="onLoad">
+            <stop stop-opacity="1.0000000" stop-color="#ebebeb" offset="0.0000000"/>
+            <stop stop-opacity="1.0000000" stop-color="#acacac" offset="1.0000000"/>
+        </linearGradient>
+        <linearGradient gradientTransform="matrix(1.9585874,0,0,1.9585874,4.5852705,1.7037419)" id="linearGradient10489" gradientUnits="userSpaceOnUse" xlink:show="other" xlink:type="simple" x1="11.502602" y1="14.910534" y2="5.0110388" x2="35.257027" xlink:actuate="onLoad">
+            <stop stop-opacity="1" stop-color="#8c8c8c" offset="0"/>
+            <stop stop-opacity="0" stop-color="#8c8c8c" offset="1"/>
+        </linearGradient>
+        <linearGradient gradientTransform="matrix(1.0289494,0,0,1.0257385,53.568347,46.932543)" id="linearGradient10494" gradientUnits="userSpaceOnUse" xlink:show="other" xlink:type="simple" x1="4.2964764" y1="3.5751467" y2="38.913116" x2="39.552456" xlink:actuate="onLoad">
+            <stop stop-opacity="1" stop-color="#eeeeec" offset="0"/>
+            <stop stop-opacity="0" stop-color="#eeeeec" offset="1"/>
+        </linearGradient>
+        <radialGradient gradientTransform="matrix(1.3064591,0,0,0.3697005,39.034646,73.658528)" id="radialGradient10501" gradientUnits="userSpaceOnUse" xlink:show="other" xlink:type="simple" r="13.474453" cx="30.428225" fx="30.428225" cy="45.153286" fy="45.153286" xlink:actuate="onLoad">
+            <stop stop-opacity="1" stop-color="#000000" offset="0"/>
+            <stop stop-opacity="0" stop-color="#000000" offset="1"/>
+        </radialGradient>
+    </defs>
+    <path stroke-linecap="butt" fill-opacity="0.5" fill="none" fill-rule="evenodd" stroke-linejoin="miter" stroke-dasharray="none" d="M 25.150438 39.406548 C 25.640083 24.961967 33.22961 17.862087 43.267372 18.106913 C 53.305134 18.351736 54.77407 24.717144 67.99454 24.717144 C 81.21501 24.717144 81.21501 15.9035 79.01159 13.455266 C 76.80818 11.007032 74.359955 8.558798 74.359955 8.558798 " stroke="url(#linearGradient10489)" stroke-width="1.37101114000000000" stroke-opacity="1" stroke-miterlimit="4"/>
+    <g transform="matrix(4.7918486e-2,0,0,4.0870979e-2,92.620405,77.899843)">
+        <rect fill-opacity="0.40206185" display="inline" stroke="none" visibility="visible" stroke-linecap="round" width="1339.6335" stroke-miterlimit="4" stroke-opacity="1" fill="url(#linearGradient6715)" stroke-dasharray="none" stroke-width="1" height="478.35718" x="-1559.2523" stroke-linejoin="miter" y="-150.69685" stroke-dashoffset="0" fill-rule="nonzero"/>
+        <path fill-opacity="0.40206185" display="inline" stroke="none" d="M -219.61876 -150.68037 C -219.61876 -150.68037 -219.61876 327.6504 -219.61876 327.6504 C -76.74459 328.55087 125.78146 220.48076 125.78138 88.45424 C 125.78138 -43.572304 -33.655437 -150.68036 -219.61876 -150.68037 z " visibility="visible" stroke-linecap="round" stroke-miterlimit="4" stroke-opacity="1" fill="url(#radialGradient6717)" stroke-dasharray="none" stroke-width="1" stroke-linejoin="miter" stroke-dashoffset="0" fill-rule="nonzero"/>
+        <path fill-opacity="0.40206185" display="inline" stroke="none" d="M -1559.2523 -150.68037 C -1559.2523 -150.68037 -1559.2523 327.6504 -1559.2523 327.6504 C -1702.1263 328.55087 -1904.6523 220.48076 -1904.6523 88.45424 C -1904.6523 -43.572304 -1745.2156 -150.68036 -1559.2523 -150.68037 z " visibility="visible" stroke-linecap="round" stroke-miterlimit="4" stroke-opacity="1" fill="url(#radialGradient6719)" stroke-dasharray="none" stroke-width="1" stroke-linejoin="miter" stroke-dashoffset="0" fill-rule="nonzero"/>
+    </g>
+    <path stroke-linecap="butt" fill-opacity="1" fill="url(#linearGradient10482)" fill-rule="evenodd" stroke-linejoin="miter" stroke-dasharray="none" d="M 7.767975 81.45678 C 7.1559167 83.29295 8.13521 84.517075 9.971386 84.63948 L 87.82523 84.63948 C 90.6407 84.76189 91.74241 82.92571 91.49758 81.45678 L 84.39771 43.59825 C 84.03047 41.150017 81.94947 39.80349 79.99089 39.925896 L 19.764324 39.925896 C 17.805737 39.80349 16.70403 41.51725 16.336796 43.353424 L 7.767975 81.45678 z " stroke="#626262" stroke-width="1.17515254" stroke-opacity="1" stroke-miterlimit="4"/>
+    <g transform="matrix(1.9585874,0,0,1.9585874,0.7905074,-0.2548455)">
+        <rect fill-opacity="1" display="inline" stroke="none" visibility="visible" stroke-linecap="butt" width="13.9375" stroke-miterlimit="4" stroke-opacity="1" fill="#6d6d6d" stroke-dasharray="none" stroke-width="2" height="2.9375" x="11.1875" stroke-linejoin="miter" rx="0.6875" y="35.125" ry="0.6875" stroke-dashoffset="0" fill-rule="evenodd"/>
+        <rect fill-opacity="1" display="inline" stroke="none" visibility="visible" stroke-linecap="butt" width="13.4375" stroke-miterlimit="4" stroke-opacity="1" fill="#e4e4e4" stroke-dasharray="none" stroke-width="2" height="1.875" x="11.3125" stroke-linejoin="miter" rx="0.6875" y="35.0625" ry="0.6875" stroke-dashoffset="0" fill-rule="evenodd"/>
+    </g>
+    <g transform="matrix(0.4567093,0,0,1.9585874,14.198523,-20.924386)">
+        <rect fill-opacity="1" display="inline" stroke="none" visibility="visible" stroke-linecap="butt" width="13.9375" stroke-miterlimit="4" stroke-opacity="1" fill="#6d6d6d" stroke-dasharray="none" stroke-width="2" height="2.9375" x="11.1875" stroke-linejoin="miter" rx="2.9483187" y="35.125" ry="0.6875" stroke-dashoffset="0" fill-rule="evenodd"/>
+        <rect fill-opacity="1" display="inline" stroke="none" visibility="visible" stroke-linecap="butt" width="13.4375" stroke-miterlimit="4" stroke-opacity="1" fill="#e4e4e4" stroke-dasharray="none" stroke-width="2" height="1.875" x="11.3125" stroke-linejoin="miter" rx="2.9483187" y="35.0625" ry="0.6875" stroke-dashoffset="0" fill-rule="evenodd"/>
+    </g>
+    <g transform="matrix(0.4567093,0,0,1.9585874,45.318659,-20.924386)">
+        <rect fill-opacity="1" display="inline" stroke="none" visibility="visible" stroke-linecap="butt" width="13.9375" stroke-miterlimit="4" stroke-opacity="1" fill="#6d6d6d" stroke-dasharray="none" stroke-width="2" height="2.9375" x="11.1875" stroke-linejoin="miter" rx="2.9483187" y="35.125" ry="0.6875" stroke-dashoffset="0" fill-rule="evenodd"/>
+        <rect fill-opacity="1" display="inline" stroke="none" visibility="visible" stroke-linecap="butt" width="13.4375" stroke-miterlimit="4" stroke-opacity="1" fill="#e4e4e4" stroke-dasharray="none" stroke-width="2" height="1.875" x="11.3125" stroke-linejoin="miter" rx="2.9483187" y="35.0625" ry="0.6875" stroke-dashoffset="0" fill-rule="evenodd"/>
+    </g>
+    <g transform="matrix(0.4567093,0,0,1.9585874,21.81561,-20.924386)">
+        <rect fill-opacity="1" display="inline" stroke="none" visibility="visible" stroke-linecap="butt" width="13.9375" stroke-miterlimit="4" stroke-opacity="1" fill="#6d6d6d" stroke-dasharray="none" stroke-width="2" height="2.9375" x="11.1875" stroke-linejoin="miter" rx="2.9483187" y="35.125" ry="0.6875" stroke-dashoffset="0" fill-rule="evenodd"/>
+        <rect fill-opacity="1" display="inline" stroke="none" visibility="visible" stroke-linecap="butt" width="13.4375" stroke-miterlimit="4" stroke-opacity="1" fill="#e4e4e4" stroke-dasharray="none" stroke-width="2" height="1.875" x="11.3125" stroke-linejoin="miter" rx="2.9483187" y="35.0625" ry="0.6875" stroke-dashoffset="0" fill-rule="evenodd"/>
+    </g>
+    <path stroke-linecap="butt" fill-opacity="1" fill="none" fill-rule="evenodd" stroke-linejoin="miter" stroke-dasharray="none" d="M 9.904889 80.44191 C 9.252078 82.878235 9.138998 82.58634 11.737897 82.58634 L 85.64426 82.58634 C 88.85999 82.58634 89.95024 83.11246 89.22972 80.3195 L 82.6569 44.768658 C 82.13149 42.02083 81.334045 41.856457 78.25642 41.856457 L 21.46235 41.856457 C 18.694277 41.856457 18.821297 42.010586 18.230167 44.476578 L 9.904889 80.44191 z " stroke="#ffffff" stroke-width="1.95858645000000010" stroke-opacity="0.39215687" stroke-miterlimit="4"/>
+    <g transform="matrix(0.4567093,0,0,1.9585874,45.869845,-0.2548455)">
+        <rect fill-opacity="1" display="inline" stroke="none" visibility="visible" stroke-linecap="butt" width="13.9375" stroke-miterlimit="4" stroke-opacity="1" fill="#6d6d6d" stroke-dasharray="none" stroke-width="2" height="2.9375" x="11.1875" stroke-linejoin="miter" rx="2.9483187" y="35.125" ry="0.6875" stroke-dashoffset="0" fill-rule="evenodd"/>
+        <rect fill-opacity="1" display="inline" stroke="none" visibility="visible" stroke-linecap="butt" width="13.4375" stroke-miterlimit="4" stroke-opacity="1" fill="#e4e4e4" stroke-dasharray="none" stroke-width="2" height="1.875" x="11.3125" stroke-linejoin="miter" rx="2.9483187" y="35.0625" ry="0.6875" stroke-dashoffset="0" fill-rule="evenodd"/>
+    </g>
+    <g transform="matrix(0.4567093,0,0,1.9585874,10.003213,-0.2548455)">
+        <rect fill-opacity="1" display="inline" stroke="none" visibility="visible" stroke-linecap="butt" width="13.9375" stroke-miterlimit="4" stroke-opacity="1" fill="#6d6d6d" stroke-dasharray="none" stroke-width="2" height="2.9375" x="11.1875" stroke-linejoin="miter" rx="2.9483187" y="35.125" ry="0.6875" stroke-dashoffset="0" fill-rule="evenodd"/>
+        <rect fill-opacity="1" display="inline" stroke="none" visibility="visible" stroke-linecap="butt" width="13.4375" stroke-miterlimit="4" stroke-opacity="1" fill="#e4e4e4" stroke-dasharray="none" stroke-width="2" height="1.875" x="11.3125" stroke-linejoin="miter" rx="2.9483187" y="35.0625" ry="0.6875" stroke-dashoffset="0" fill-rule="evenodd"/>
+    </g>
+    <g transform="matrix(0.4567093,0,0,1.9585874,57.376546,-0.2548455)">
+        <rect fill-opacity="1" display="inline" stroke="none" visibility="visible" stroke-linecap="butt" width="13.9375" stroke-miterlimit="4" stroke-opacity="1" fill="#6d6d6d" stroke-dasharray="none" stroke-width="2" height="2.9375" x="11.1875" stroke-linejoin="miter" rx="2.9483187" y="35.125" ry="0.6875" stroke-dashoffset="0" fill-rule="evenodd"/>
+        <rect fill-opacity="1" display="inline" stroke="none" visibility="visible" stroke-linecap="butt" width="13.4375" stroke-miterlimit="4" stroke-opacity="1" fill="#e4e4e4" stroke-dasharray="none" stroke-width="2" height="1.875" x="11.3125" stroke-linejoin="miter" rx="2.9483187" y="35.0625" ry="0.6875" stroke-dashoffset="0" fill-rule="evenodd"/>
+    </g>
+    <g transform="matrix(0.4567093,0,0,1.9585874,64.231602,-6.1306077)">
+        <rect fill-opacity="1" display="inline" stroke="none" visibility="visible" stroke-linecap="butt" width="13.9375" stroke-miterlimit="4" stroke-opacity="1" fill="#6d6d6d" stroke-dasharray="none" stroke-width="2" height="2.9375" x="11.1875" stroke-linejoin="miter" rx="2.9483187" y="35.125" ry="0.6875" stroke-dashoffset="0" fill-rule="evenodd"/>
+        <rect fill-opacity="1" display="inline" stroke="none" visibility="visible" stroke-linecap="butt" width="13.4375" stroke-miterlimit="4" stroke-opacity="1" fill="#e4e4e4" stroke-dasharray="none" stroke-width="2" height="1.875" x="11.3125" stroke-linejoin="miter" rx="2.9483187" y="35.0625" ry="0.6875" stroke-dashoffset="0" fill-rule="evenodd"/>
+    </g>
+    <g transform="matrix(0.4567093,0,0,1.9585874,64.721248,-0.2548455)">
+        <rect fill-opacity="1" display="inline" stroke="none" visibility="visible" stroke-linecap="butt" width="13.9375" stroke-miterlimit="4" stroke-opacity="1" fill="#6d6d6d" stroke-dasharray="none" stroke-width="2" height="2.9375" x="11.1875" stroke-linejoin="miter" rx="2.9483187" y="35.125" ry="0.6875" stroke-dashoffset="0" fill-rule="evenodd"/>
+        <rect fill-opacity="1" display="inline" stroke="none" visibility="visible" stroke-linecap="butt" width="13.4375" stroke-miterlimit="4" stroke-opacity="1" fill="#e4e4e4" stroke-dasharray="none" stroke-width="2" height="1.875" x="11.3125" stroke-linejoin="miter" rx="2.9483187" y="35.0625" ry="0.6875" stroke-dashoffset="0" fill-rule="evenodd"/>
+    </g>
+    <g transform="matrix(0.4567093,0,0,1.9585874,71.943539,-0.2548455)">
+        <rect fill-opacity="1" display="inline" stroke="none" visibility="visible" stroke-linecap="butt" width="13.9375" stroke-miterlimit="4" stroke-opacity="1" fill="#6d6d6d" stroke-dasharray="none" stroke-width="2" height="2.9375" x="11.1875" stroke-linejoin="miter" rx="2.9483187" y="35.125" ry="0.6875" stroke-dashoffset="0" fill-rule="evenodd"/>
+        <rect fill-opacity="1" display="inline" stroke="none" visibility="visible" stroke-linecap="butt" width="13.4375" stroke-miterlimit="4" stroke-opacity="1" fill="#e4e4e4" stroke-dasharray="none" stroke-width="2" height="1.875" x="11.3125" stroke-linejoin="miter" rx="2.9483187" y="35.0625" ry="0.6875" stroke-dashoffset="0" fill-rule="evenodd"/>
+    </g>
+    <g transform="matrix(0.4567093,0,0,1.9585874,11.839389,-8.2079952)">
+        <rect fill-opacity="1" display="inline" stroke="none" visibility="visible" stroke-linecap="butt" width="13.9375" stroke-miterlimit="4" stroke-opacity="1" fill="#6d6d6d" stroke-dasharray="none" stroke-width="2" height="2.9375" x="11.1875" stroke-linejoin="miter" rx="2.9483187" y="35.125" ry="0.6875" stroke-dashoffset="0" fill-rule="evenodd"/>
+        <rect fill-opacity="1" display="inline" stroke="none" visibility="visible" stroke-linecap="butt" width="13.4375" stroke-miterlimit="4" stroke-opacity="1" fill="#e4e4e4" stroke-dasharray="none" stroke-width="2" height="1.875" x="11.3125" stroke-linejoin="miter" rx="2.9483187" y="35.0625" ry="0.6875" stroke-dashoffset="0" fill-rule="evenodd"/>
+    </g>
+    <g transform="matrix(0.4567093,0,0,1.9585874,19.673738,-8.2079952)">
+        <rect fill-opacity="1" display="inline" stroke="none" visibility="visible" stroke-linecap="butt" width="13.9375" stroke-miterlimit="4" stroke-opacity="1" fill="#6d6d6d" stroke-dasharray="none" stroke-width="2" height="2.9375" x="11.1875" stroke-linejoin="miter" rx="2.9483187" y="35.125" ry="0.6875" stroke-dashoffset="0" fill-rule="evenodd"/>
+        <rect fill-opacity="1" display="inline" stroke="none" visibility="visible" stroke-linecap="butt" width="13.4375" stroke-miterlimit="4" stroke-opacity="1" fill="#e4e4e4" stroke-dasharray="none" stroke-width="2" height="1.875" x="11.3125" stroke-linejoin="miter" rx="2.9483187" y="35.0625" ry="0.6875" stroke-dashoffset="0" fill-rule="evenodd"/>
+    </g>
+    <g transform="matrix(0.4567093,0,0,1.9585874,27.508088,-8.2079952)">
+        <rect fill-opacity="1" display="inline" stroke="none" visibility="visible" stroke-linecap="butt" width="13.9375" stroke-miterlimit="4" stroke-opacity="1" fill="#6d6d6d" stroke-dasharray="none" stroke-width="2" height="2.9375" x="11.1875" stroke-linejoin="miter" rx="2.9483187" y="35.125" ry="0.6875" stroke-dashoffset="0" fill-rule="evenodd"/>
+        <rect fill-opacity="1" display="inline" stroke="none" visibility="visible" stroke-linecap="butt" width="13.4375" stroke-miterlimit="4" stroke-opacity="1" fill="#e4e4e4" stroke-dasharray="none" stroke-width="2" height="1.875" x="11.3125" stroke-linejoin="miter" rx="2.9483187" y="35.0625" ry="0.6875" stroke-dashoffset="0" fill-rule="evenodd"/>
+    </g>
+    <g transform="matrix(0.4567093,0,0,1.9585874,35.342437,-8.2079952)">
+        <rect fill-opacity="1" display="inline" stroke="none" visibility="visible" stroke-linecap="butt" width="13.9375" stroke-miterlimit="4" stroke-opacity="1" fill="#6d6d6d" stroke-dasharray="none" stroke-width="2" height="2.9375" x="11.1875" stroke-linejoin="miter" rx="2.9483187" y="35.125" ry="0.6875" stroke-dashoffset="0" fill-rule="evenodd"/>
+        <rect fill-opacity="1" display="inline" stroke="none" visibility="visible" stroke-linecap="butt" width="13.4375" stroke-miterlimit="4" stroke-opacity="1" fill="#e4e4e4" stroke-dasharray="none" stroke-width="2" height="1.875" x="11.3125" stroke-linejoin="miter" rx="2.9483187" y="35.0625" ry="0.6875" stroke-dashoffset="0" fill-rule="evenodd"/>
+    </g>
+    <g transform="matrix(0.4567093,0,0,1.9585874,47.093962,-14.375673)">
+        <rect fill-opacity="1" display="inline" stroke="none" visibility="visible" stroke-linecap="butt" width="13.9375" stroke-miterlimit="4" stroke-opacity="1" fill="#6d6d6d" stroke-dasharray="none" stroke-width="2" height="2.9375" x="11.1875" stroke-linejoin="miter" rx="2.9483187" y="35.125" ry="0.6875" stroke-dashoffset="0" fill-rule="evenodd"/>
+        <rect fill-opacity="1" display="inline" stroke="none" visibility="visible" stroke-linecap="butt" width="13.4375" stroke-miterlimit="4" stroke-opacity="1" fill="#e4e4e4" stroke-dasharray="none" stroke-width="2" height="1.875" x="11.3125" stroke-linejoin="miter" rx="2.9483187" y="35.0625" ry="0.6875" stroke-dashoffset="0" fill-rule="evenodd"/>
+    </g>
+    <g transform="matrix(0.4567093,0,0,1.9585874,43.176787,-8.2079952)">
+        <rect fill-opacity="1" display="inline" stroke="none" visibility="visible" stroke-linecap="butt" width="13.9375" stroke-miterlimit="4" stroke-opacity="1" fill="#6d6d6d" stroke-dasharray="none" stroke-width="2" height="2.9375" x="11.1875" stroke-linejoin="miter" rx="2.9483187" y="35.125" ry="0.6875" stroke-dashoffset="0" fill-rule="evenodd"/>
+        <rect fill-opacity="1" display="inline" stroke="none" visibility="visible" stroke-linecap="butt" width="13.4375" stroke-miterlimit="4" stroke-opacity="1" fill="#e4e4e4" stroke-dasharray="none" stroke-width="2" height="1.875" x="11.3125" stroke-linejoin="miter" rx="2.9483187" y="35.0625" ry="0.6875" stroke-dashoffset="0" fill-rule="evenodd"/>
+    </g>
+    <g transform="matrix(0.4567093,0,0,1.9585874,51.011137,-8.2079952)">
+        <rect fill-opacity="1" display="inline" stroke="none" visibility="visible" stroke-linecap="butt" width="13.9375" stroke-miterlimit="4" stroke-opacity="1" fill="#6d6d6d" stroke-dasharray="none" stroke-width="2" height="2.9375" x="11.1875" stroke-linejoin="miter" rx="2.9483187" y="35.125" ry="0.6875" stroke-dashoffset="0" fill-rule="evenodd"/>
+        <rect fill-opacity="1" display="inline" stroke="none" visibility="visible" stroke-linecap="butt" width="13.4375" stroke-miterlimit="4" stroke-opacity="1" fill="#e4e4e4" stroke-dasharray="none" stroke-width="2" height="1.875" x="11.3125" stroke-linejoin="miter" rx="2.9483187" y="35.0625" ry="0.6875" stroke-dashoffset="0" fill-rule="evenodd"/>
+    </g>
+    <g transform="matrix(0.4567093,0,0,1.9585874,37.484309,-20.924386)">
+        <rect fill-opacity="1" display="inline" stroke="none" visibility="visible" stroke-linecap="butt" width="13.9375" stroke-miterlimit="4" stroke-opacity="1" fill="#6d6d6d" stroke-dasharray="none" stroke-width="2" height="2.9375" x="11.1875" stroke-linejoin="miter" rx="2.9483187" y="35.125" ry="0.6875" stroke-dashoffset="0" fill-rule="evenodd"/>
+        <rect fill-opacity="1" display="inline" stroke="none" visibility="visible" stroke-linecap="butt" width="13.4375" stroke-miterlimit="4" stroke-opacity="1" fill="#e4e4e4" stroke-dasharray="none" stroke-width="2" height="1.875" x="11.3125" stroke-linejoin="miter" rx="2.9483187" y="35.0625" ry="0.6875" stroke-dashoffset="0" fill-rule="evenodd"/>
+    </g>
+    <g transform="matrix(0.4567093,0,0,1.9585874,39.259612,-14.375673)">
+        <rect fill-opacity="1" display="inline" stroke="none" visibility="visible" stroke-linecap="butt" width="13.9375" stroke-miterlimit="4" stroke-opacity="1" fill="#6d6d6d" stroke-dasharray="none" stroke-width="2" height="2.9375" x="11.1875" stroke-linejoin="miter" rx="2.9483187" y="35.125" ry="0.6875" stroke-dashoffset="0" fill-rule="evenodd"/>
+        <rect fill-opacity="1" display="inline" stroke="none" visibility="visible" stroke-linecap="butt" width="13.4375" stroke-miterlimit="4" stroke-opacity="1" fill="#e4e4e4" stroke-dasharray="none" stroke-width="2" height="1.875" x="11.3125" stroke-linejoin="miter" rx="2.9483187" y="35.0625" ry="0.6875" stroke-dashoffset="0" fill-rule="evenodd"/>
+    </g>
+    <g transform="matrix(0.4567093,0,0,1.9585874,29.64996,-20.924386)">
+        <rect fill-opacity="1" display="inline" stroke="none" visibility="visible" stroke-linecap="butt" width="13.9375" stroke-miterlimit="4" stroke-opacity="1" fill="#6d6d6d" stroke-dasharray="none" stroke-width="2" height="2.9375" x="11.1875" stroke-linejoin="miter" rx="2.9483187" y="35.125" ry="0.6875" stroke-dashoffset="0" fill-rule="evenodd"/>
+        <rect fill-opacity="1" display="inline" stroke="none" visibility="visible" stroke-linecap="butt" width="13.4375" stroke-miterlimit="4" stroke-opacity="1" fill="#e4e4e4" stroke-dasharray="none" stroke-width="2" height="1.875" x="11.3125" stroke-linejoin="miter" rx="2.9483187" y="35.0625" ry="0.6875" stroke-dashoffset="0" fill-rule="evenodd"/>
+    </g>
+    <g transform="matrix(0.4567093,0,0,1.9585874,31.425263,-14.375673)">
+        <rect fill-opacity="1" display="inline" stroke="none" visibility="visible" stroke-linecap="butt" width="13.9375" stroke-miterlimit="4" stroke-opacity="1" fill="#6d6d6d" stroke-dasharray="none" stroke-width="2" height="2.9375" x="11.1875" stroke-linejoin="miter" rx="2.9483187" y="35.125" ry="0.6875" stroke-dashoffset="0" fill-rule="evenodd"/>
+        <rect fill-opacity="1" display="inline" stroke="none" visibility="visible" stroke-linecap="butt" width="13.4375" stroke-miterlimit="4" stroke-opacity="1" fill="#e4e4e4" stroke-dasharray="none" stroke-width="2" height="1.875" x="11.3125" stroke-linejoin="miter" rx="2.9483187" y="35.0625" ry="0.6875" stroke-dashoffset="0" fill-rule="evenodd"/>
+    </g>
+    <g transform="matrix(0.4567093,0,0,1.9585874,23.590913,-14.375673)">
+        <rect fill-opacity="1" display="inline" stroke="none" visibility="visible" stroke-linecap="butt" width="13.9375" stroke-miterlimit="4" stroke-opacity="1" fill="#6d6d6d" stroke-dasharray="none" stroke-width="2" height="2.9375" x="11.1875" stroke-linejoin="miter" rx="2.9483187" y="35.125" ry="0.6875" stroke-dashoffset="0" fill-rule="evenodd"/>
+        <rect fill-opacity="1" display="inline" stroke="none" visibility="visible" stroke-linecap="butt" width="13.4375" stroke-miterlimit="4" stroke-opacity="1" fill="#e4e4e4" stroke-dasharray="none" stroke-width="2" height="1.875" x="11.3125" stroke-linejoin="miter" rx="2.9483187" y="35.0625" ry="0.6875" stroke-dashoffset="0" fill-rule="evenodd"/>
+    </g>
+    <g transform="matrix(0.4567093,0,0,1.9585874,15.756563,-14.375673)">
+        <rect fill-opacity="1" display="inline" stroke="none" visibility="visible" stroke-linecap="butt" width="13.9375" stroke-miterlimit="4" stroke-opacity="1" fill="#6d6d6d" stroke-dasharray="none" stroke-width="2" height="2.9375" x="11.1875" stroke-linejoin="miter" rx="2.9483187" y="35.125" ry="0.6875" stroke-dashoffset="0" fill-rule="evenodd"/>
+        <rect fill-opacity="1" display="inline" stroke="none" visibility="visible" stroke-linecap="butt" width="13.4375" stroke-miterlimit="4" stroke-opacity="1" fill="#e4e4e4" stroke-dasharray="none" stroke-width="2" height="1.875" x="11.3125" stroke-linejoin="miter" rx="2.9483187" y="35.0625" ry="0.6875" stroke-dashoffset="0" fill-rule="evenodd"/>
+    </g>
+    <g transform="matrix(0.4567093,0,0,1.9585874,60.660705,-14.202565)">
+        <rect fill-opacity="1" display="inline" stroke="none" visibility="visible" stroke-linecap="butt" width="13.9375" stroke-miterlimit="4" stroke-opacity="1" fill="#6d6d6d" stroke-dasharray="none" stroke-width="2" height="2.9375" x="11.1875" stroke-linejoin="miter" rx="2.9483187" y="35.125" ry="0.6875" stroke-dashoffset="0" fill-rule="evenodd"/>
+        <rect fill-opacity="1" display="inline" stroke="none" visibility="visible" stroke-linecap="butt" width="13.4375" stroke-miterlimit="4" stroke-opacity="1" fill="#e4e4e4" stroke-dasharray="none" stroke-width="2" height="1.875" x="11.3125" stroke-linejoin="miter" rx="2.9483187" y="35.0625" ry="0.6875" stroke-dashoffset="0" fill-rule="evenodd"/>
+    </g>
+    <g transform="matrix(0.4567093,0,0,1.9585874,68.495055,-14.202565)">
+        <rect fill-opacity="1" display="inline" stroke="none" visibility="visible" stroke-linecap="butt" width="13.9375" stroke-miterlimit="4" stroke-opacity="1" fill="#6d6d6d" stroke-dasharray="none" stroke-width="2" height="2.9375" x="11.1875" stroke-linejoin="miter" rx="2.9483187" y="35.125" ry="0.6875" stroke-dashoffset="0" fill-rule="evenodd"/>
+        <rect fill-opacity="1" display="inline" stroke="none" visibility="visible" stroke-linecap="butt" width="13.4375" stroke-miterlimit="4" stroke-opacity="1" fill="#e4e4e4" stroke-dasharray="none" stroke-width="2" height="1.875" x="11.3125" stroke-linejoin="miter" rx="2.9483187" y="35.0625" ry="0.6875" stroke-dashoffset="0" fill-rule="evenodd"/>
+    </g>
+    <g transform="matrix(1.9585874,0,0,2.8399517,6.2519402,-16.497673)">
+        <rect fill-opacity="1" display="inline" stroke="none" visibility="visible" stroke-linecap="butt" width="2.4748738" stroke-miterlimit="4" stroke-opacity="1" fill="#787843" stroke-dasharray="none" stroke-width="1" height="1.5026019" x="29.521708" stroke-linejoin="miter" rx="2.9483187" y="21.571884" ry="0.47413796" stroke-dashoffset="0" fill-rule="evenodd"/>
+        <rect fill-opacity="1" display="inline" stroke="none" visibility="visible" stroke-linecap="butt" width="2.4748738" stroke-miterlimit="4" stroke-opacity="1" fill="#787843" stroke-dasharray="none" stroke-width="1" height="1.5026019" x="33.521713" stroke-linejoin="miter" rx="2.9483187" y="21.571884" ry="0.47413796" stroke-dashoffset="0" fill-rule="evenodd"/>
+        <rect fill-opacity="1" display="inline" stroke="none" visibility="visible" stroke-linecap="butt" width="2.4748738" stroke-miterlimit="4" stroke-opacity="1" fill="#e7e745" stroke-dasharray="none" stroke-width="1" height="1.5026019" x="29.786873" stroke-linejoin="miter" rx="2.9483187" y="21.837049" ry="0.47413796" stroke-dashoffset="0" fill-rule="evenodd"/>
+        <rect fill-opacity="1" display="inline" stroke="none" visibility="visible" stroke-linecap="butt" width="2.4748738" stroke-miterlimit="4" stroke-opacity="1" fill="#e7e745" stroke-dasharray="none" stroke-width="1" height="1.5026019" x="33.786873" stroke-linejoin="miter" rx="2.9483187" y="21.837049" ry="0.47413796" stroke-dashoffset="0" fill-rule="evenodd"/>
+    </g>
+    <path stroke-linecap="round" fill-opacity="0.44999994" display="inline" fill="url(#radialGradient10501)" stroke-linejoin="round" stroke-dasharray="none" d="M 96.3917 90.35173 C 96.3917 93.10294 88.5102 95.33324 78.78788 95.33324 C 69.06555 95.33324 61.184055 93.10294 61.184055 90.35173 C 61.184055 87.60051 69.06555 85.37022 78.78788 85.37022 C 88.5102 85.37022 96.3917 87.60051 96.3917 90.35173 z " stroke="none" stroke-width="1.79999995" stroke-opacity="1" stroke-miterlimit="4"/>
+    <rect fill-opacity="1" display="inline" stroke="none" width="34.122772" stroke-miterlimit="4" stroke-opacity="1" fill="#003a80" stroke-dasharray="none" stroke-width="0.87800002" height="43.742832" x="61.20203" rx="14.094189" y="48.389706" ry="18.636143" stroke-dashoffset="0" fill-rule="evenodd"/>
+    <rect fill-opacity="0.75428569" display="inline" stroke="none" width="31.90686" stroke-miterlimit="4" stroke-opacity="1" fill="#006ef2" stroke-dasharray="none" stroke-width="0.87800002" height="41.007751" x="62.351044" rx="13.17892" y="50.057884" ry="17.470892" stroke-dashoffset="0" fill-rule="evenodd"/>
+    <path stroke-linecap="butt" fill-opacity="1" display="inline" fill="#ffffff" fill-rule="evenodd" stroke-linejoin="miter" d="M 68.19482 63.1171 L 70.4425 61.001633 L 77.06066 66.99545 L 77.06066 52.657295 L 88.67366 63.46968 L 81.056526 70.75628 L 88.923416 78.160416 L 77.06066 88.62022 L 77.06066 74.39958 L 70.69223 80.51093 L 68.06995 78.160416 L 76.4363 70.638756 L 68.19482 63.1171 z " stroke="none" stroke-width="1px" stroke-opacity="1"/>
+    <path stroke-linecap="butt" fill-opacity="0.79428573" display="inline" fill="#0059c4" fill-rule="evenodd" stroke-linejoin="miter" d="M 80.30731 59.85667 L 80.30731 67.37833 L 84.178314 63.85255 L 80.30731 59.85667 z " stroke="none" stroke-width="1px" stroke-opacity="1"/>
+    <path stroke-dashoffset="0" fill-opacity="0.35" display="inline" fill="url(#linearGradient10494)" fill-rule="evenodd" d="M 75.69814 50.59971 L 80.878815 50.59971 C 84.18283 50.59971 87.17466 52.33636 89.38065 55.171722 C 81.17122 62.30873 75.8675 67.32525 69.96506 87.864944 C 65.844154 85.192635 63.39406 79.52198 63.39406 72.92736 L 63.39406 67.17304 C 63.39406 57.991413 68.88168 50.59971 75.69814 50.59971 z " stroke="none" stroke-width="1" stroke-opacity="1" stroke-miterlimit="4"/>
+    <path stroke-linecap="butt" fill-opacity="0.79428573" display="inline" fill="#0059c4" fill-rule="evenodd" stroke-linejoin="miter" d="M 80.182434 74.78246 L 80.43218 81.48144 L 84.303185 78.30824 L 80.182434 74.78246 z " stroke="none" stroke-width="1px" stroke-opacity="1"/>
+    <rect fill-opacity="0.55" display="inline" stroke="#eeeeec" width="30.887486" stroke-miterlimit="4" stroke-opacity="1" fill="none" stroke-dasharray="none" stroke-width="1.06689835" height="40.46196" x="62.836967" rx="12.757874" y="50.070225" ry="17.238363" stroke-dashoffset="0" fill-rule="evenodd"/>
+</svg>

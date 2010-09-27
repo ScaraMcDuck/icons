@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="text/ecmascript" width="60" baseProfile="tiny" zoomAndPan="magnify" contentStyleType="text/css" viewBox="0 0 60 80" height="80" preserveAspectRatio="xMidYMid meet" version="1.0">
+    <defs>
+        <linearGradient xlink:type="simple" xlink:actuate="onLoad" id="grad0" xlink:show="other">
+            <stop stop-color="#000" offset="0"/>
+            <stop stop-color="#000" offset="0.01">
+                <animate dur="0.125s" from="0.01" attributeName="offset" repeatCount="indefinite" to="0.98"/>
+            </stop>
+            <stop stop-color="#d0d0d0" offset="0.02">
+                <animate dur="0.125s" from="0.02" attributeName="offset" repeatCount="indefinite" to="0.99"/>
+            </stop>
+            <stop stop-color="#d0d0d0" offset="1"/>
+        </linearGradient>
+    </defs>
+    <g transform="matrix(1.2896129,0,0,1.2896129,-1.7443605,8.4143699)">
+        <rect x="19.351219" y="3.5229974" fill="#2e3436" width="9.2975597" rx="4.6487799" height="11.954005">
+            <animate dur="1s" keyTimes="0;.124;.125;.5;1" values="0;0;3;0;0" repeatCount="indefinite" attributeName="height" additive="sum"/>
+            <animate dur="1s" keyTimes="0;.124;.125;.5;1" values="0;0;-3;0;0" repeatCount="indefinite" begin="ani1.begin" attributeName="y" additive="sum"/>
+            <animateColor dur="1s" keyTimes="0;.124;.125;.5;1" values="url(#grad0);url(#grad0);#000;#d0d0d0;#d0d0d0" repeatCount="indefinite" begin="ani1.begin" attributeName="fill"/>
+        </rect>
+        <rect x="29.486149" y="-20.227829" transform="matrix(0.7071068,0.7071068,-0.7071068,0.7071068,0,0)" fill="#555753" width="8.9099541" rx="4.454977" height="11.455655">
+            <animate dur="1s" keyTimes="0;.124;.125;.5;1" values="0;0;3;0;0" repeatCount="indefinite" begin="ani1.begin+0.125s" attributeName="height" additive="sum"/>
+            <animate dur="1s" keyTimes="0;.124;.125;.5;1" values="0;0;-3;0;0" repeatCount="indefinite" begin="ani2.begin" attributeName="y" additive="sum"/>
+            <animateColor dur="1s" keyTimes="0;.124;.125;.5;1" values="url(#grad0);url(#grad0);#000;#d0d0d0;#d0d0d0" repeatCount="indefinite" begin="ani2.begin" attributeName="fill"/>
+        </rect>
+        <rect x="19.952961" y="-43.703331" transform="matrix(0,1,-1,0,0,0)" fill="#888a85" width="8.0940762" rx="4.0470381" height="10.40667">
+            <animate dur="1s" keyTimes="0;.124;.125;.5;1" values="0;0;3;0;0" repeatCount="indefinite" begin="ani2.begin+0.125s" attributeName="height" additive="sum"/>
+            <animate dur="1s" keyTimes="0;.124;.125;.5;1" values="0;0;-3;0;0" repeatCount="indefinite" begin="ani3.begin" attributeName="y" additive="sum"/>
+            <animateColor dur="1s" keyTimes="0;.124;.125;.5;1" values="url(#grad0);url(#grad0);#000;#d0d0d0;#d0d0d0" repeatCount="indefinite" begin="ani3.begin" attributeName="fill"/>
+        </rect>
+        <rect x="-3.7728503" y="-53.291935" transform="matrix(-0.7071068,0.7071068,-0.7071068,-0.7071068,0,0)" fill="#babdb6" width="7.5457015" rx="3.7728508" height="9.7016163">
+            <animate dur="1s" keyTimes="0;.124;.125;.5;1" values="0;0;3;0;0" repeatCount="indefinite" begin="ani3.begin+0.125s" attributeName="height" additive="sum"/>
+            <animate dur="1s" keyTimes="0;.124;.125;.5;1" values="0;0;-3;0;0" repeatCount="indefinite" begin="ani4.begin" attributeName="y" additive="sum"/>
+            <animateColor dur="1s" keyTimes="0;.124;.125;.5;1" values="url(#grad0);url(#grad0);#000;#d0d0d0;#d0d0d0" repeatCount="indefinite" begin="ani4.begin" attributeName="fill"/>
+        </rect>
+        <rect x="-27.755285" y="-43.328224" transform="scale(-1,-1)" fill="#d3d7cf" width="7.5105691" rx="3.7552845" height="9.6564455">
+            <animate dur="1s" keyTimes="0;.124;.125;.5;1" values="0;0;3;0;0" repeatCount="indefinite" begin="ani4.begin+0.125s" attributeName="height" additive="sum"/>
+            <animate dur="1s" keyTimes="0;.124;.125;.5;1" values="0;0;-3;0;0" repeatCount="indefinite" begin="ani5.begin" attributeName="y" additive="sum"/>
+            <animateColor dur="1s" keyTimes="0;.124;.125;.5;1" values="url(#grad0);url(#grad0);#000;#d0d0d0;#d0d0d0" repeatCount="indefinite" begin="ani5.begin" attributeName="fill"/>
+        </rect>
+        <rect x="-3.5" y="-9" transform="matrix(-0.7071068,-0.7071068,0.7071068,-0.7071068,16.928932,31.071068)" fill="#eeeeec" width="7" rx="3.5" height="9">
+            <animate dur="1s" keyTimes="0;.124;.125;.5;1" values="0;0;3;0;0" repeatCount="indefinite" begin="ani5.begin+0.125s" attributeName="height" additive="sum"/>
+            <animate dur="1s" keyTimes="0;.124;.125;.5;1" values="0;0;-3;0;0" repeatCount="indefinite" begin="ani6.begin" attributeName="y" additive="sum"/>
+            <animateColor dur="1s" keyTimes="0;.124;.125;.5;1" values="url(#grad0);url(#grad0);#000;#d0d0d0;#d0d0d0" repeatCount="indefinite" begin="ani6.begin" attributeName="fill"/>
+        </rect>
+        <rect x="-3.5" y="-9" transform="matrix(0,-1,1,0,14,24)" fill="#eeeeec" width="7" rx="3.5" height="9">
+            <animate dur="1s" keyTimes="0;.124;.125;.5;1" values="0;0;3;0;0" repeatCount="indefinite" begin="ani6.begin+0.125s" attributeName="height" additive="sum"/>
+            <animate dur="1s" keyTimes="0;.124;.125;.5;1" values="0;0;-3;0;0" repeatCount="indefinite" begin="ani7.begin" attributeName="y" additive="sum"/>
+            <animateColor dur="1s" keyTimes="0;.124;.125;.5;1" values="url(#grad0);url(#grad0);#000;#d0d0d0;#d0d0d0" repeatCount="indefinite" begin="ani7.begin" attributeName="fill"/>
+        </rect>
+        <rect x="-3.5" y="-9" transform="matrix(0.7071068,-0.7071068,0.7071068,0.7071068,16.928932,16.928932)" fill="#eeeeec" width="7" rx="3.5" height="9">
+            <animate dur="1s" keyTimes="0;.124;.125;.5;1" values="0;0;3;0;0" repeatCount="indefinite" begin="ani7.begin+0.125s" attributeName="height" additive="sum"/>
+            <animate dur="1s" keyTimes="0;.124;.125;.5;1" values="0;0;-3;0;0" repeatCount="indefinite" begin="ani8.begin" attributeName="y" additive="sum"/>
+            <animateColor dur="1s" keyTimes="0;.124;.125;.5;1" values="url(#grad0);url(#grad0);#000;#d0d0d0;#d0d0d0" repeatCount="indefinite" begin="ani8.begin" attributeName="fill"/>
+        </rect>
+    </g>
+</svg>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="text/ecmascript" width="12" baseProfile="tiny" zoomAndPan="magnify" contentStyleType="text/css" viewBox="0 0 12 12" height="12" preserveAspectRatio="none" version="1.0">
+    <defs>
+        <linearGradient x1="105.53313" gradientTransform="matrix(0,-3.9207852e-2,-0.5000025,0,11.051999,9.167001)" y1="-0.08456818" x2="105.53313" gradientUnits="userSpaceOnUse" y2="20.048168" xlink:type="simple" xlink:actuate="onLoad" id="linearGradient3529" xlink:show="other">
+            <stop stop-opacity="1" stop-color="#97b1d0" offset="0"/>
+            <stop stop-opacity="1" stop-color="#c5d4e5" offset="1"/>
+        </linearGradient>
+    </defs>
+    <rect x="0" y="-10" fill-opacity="1" transform="scale(1,-1)" fill="#8e8f8b" width="12" height="10" stroke-opacity="0.3"/>
+    <path fill-opacity="1" display="inline" stroke="none" d="M 11.052 9.167 L 11.052 -1.3500485E-15 L 8.539 -1.3500485E-15 L 3.513 -1.3500485E-15 L 1.0 -1.3500485E-15 L 1.0 9.167 L 11.052 9.167 z " visibility="visible" stroke-linecap="butt" stroke-miterlimit="4" stroke-opacity="0.21710528" fill="url(#linearGradient3529)" stroke-width="0.5" stroke-linejoin="miter" stroke-dashoffset="0" fill-rule="nonzero"/>
+    <rect x="0" y="-6.6566963" transform="scale(1,-1)" fill="none" width="12" height="6.6566963"/>
+</svg>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="text/ecmascript" width="12" baseProfile="tiny" zoomAndPan="magnify" contentStyleType="text/css" viewBox="0 0 12 12" height="12" preserveAspectRatio="none" version="1.0">
+    <defs>
+        <linearGradient x1="0" gradientTransform="matrix(1,0,0,0.9166667,0,1)" y1="6" x2="12" gradientUnits="userSpaceOnUse" y2="6" xlink:type="simple" xlink:actuate="onLoad" id="linearGradient3223" xlink:show="other">
+            <stop stop-opacity="1" stop-color="#ebece9" offset="0"/>
+            <stop stop-opacity="1" stop-color="#c1c5bc" offset="1"/>
+        </linearGradient>
+        <linearGradient xlink:type="simple" xlink:actuate="onLoad" xlink:show="other">
+            <stop stop-opacity="1" stop-color="#ebf7ff" offset="0"/>
+            <stop stop-opacity="0" stop-color="#ebf7ff" offset="1"/>
+        </linearGradient>
+        <linearGradient xlink:type="simple" xlink:actuate="onLoad" xlink:show="other">
+            <stop stop-opacity="1" stop-color="#ebece9" offset="0"/>
+            <stop stop-opacity="1" stop-color="#c1c5bc" offset="1"/>
+        </linearGradient>
+    </defs>
+    <g transform="matrix(1,0,0,-1,0,12)">
+        <rect x="0" y="1" fill-opacity="1" fill="url(#linearGradient3223)" width="12" height="11"/>
+        <path fill="#c3c6bd" d="M 1.0 1.0 L 1.0 12.0 L 2.0 12.0 L 2.0 2.0 L 6.0 2.0 L 6.0 1.0 L 2.0 1.0 L 1.0 1.0 z " fill-opacity="1"/>
+        <path fill="#e2e4de" d="M 10.0 0.0 L 10.0 1.0 L 6.0 1.0 L 6.0 2.0 L 10.0 2.0 L 10.0 12.0 L 11.0 12.0 L 11.0 0.0 L 10.0 0.0 z " fill-opacity="1"/>
+        <path fill="#aaaba7" d="M 0.0 0.0 L 0.0 1.0 L 0.0 12.0 L 1.0 12.0 L 1.0 1.0 L 11.0 1.0 L 11.0 12.0 L 12.0 12.0 L 12.0 1.0 L 12.0 0.0 L 1.0 0.0 L 0.0 0.0 z " fill-opacity="1"/>
+        <rect x="0" width="12" fill="none" y="0" height="12"/>
+    </g>
+</svg>

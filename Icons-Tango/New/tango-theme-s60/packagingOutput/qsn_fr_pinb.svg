@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="text/ecmascript" width="347" baseProfile="tiny" zoomAndPan="magnify" contentStyleType="text/css" viewBox="0 0 347 365" height="365" preserveAspectRatio="xMidYMid meet" version="1.0">
+    <switch>
+        <foreignObject x="0" y="0" requiredExtensions="http://ns.adobe.com/AdobeIllustrator/10.0/" width="1" content="structured text" height="1"/>
+        <g>
+            <g>
+                <g>
+                    <rect width="346" fill="none" height="364"/>
+                    <path d="M 4.0 1.0 C 2.346 1.0 1.0 2.346 1.0 4.0 L 1.0 362.0 C 1.0 363.654 2.346 365.0 4.0 365.0 L 344.0 365.0 C 345.654 365.0 347.0 363.654 347.0 362.0 L 347.0 4.0 C 347.0 2.346 345.654 1.0 344.0 1.0 L 4.0 1.0 z " fill-opacity="0.11" stroke-opacity="0.11"/>
+                    <path d="M 4.0 2.0 C 2.898 2.0 2.0 2.897 2.0 4.0 L 2.0 362.0 C 2.0 363.104 2.898 364.0 4.0 364.0 L 344.0 364.0 C 345.104 364.0 346.0 363.104 346.0 362.0 L 346.0 4.0 C 346.0 2.8969998 345.104 2.0 344.0 2.0 L 4.0 2.0 L 4.0 2.0 z " fill-opacity="0.13" stroke-opacity="0.13"/>
+                    <path fill="url(#XMLID_2_)" d="M 1.0 1.0 C 1.0 2.983 1.0 361.017 1.0 363.0 C 2.982 363.0 343.018 363.0 345.0 363.0 C 345.0 361.018 345.0 2.9840088 345.0 1.0 C 343.018 1.0 2.982 1.0 1.0 1.0 z "/>
+                    <g>
+                        <path fill="#ffffff" d="M 344.0 1.0 C 344.0 1.0 344.0 361.003 344.0 362.0 C 343.002 362.0 1.0 362.0 1.0 362.0 L 1.0 363.0 L 345.0 363.0 L 345.0 1.0 L 344.0 1.0 z "/>
+                    </g>
+                    <defs>
+                        <linearGradient x1="30.8979" y1="0.5098" x2="327.9431" gradientUnits="userSpaceOnUse" y2="379.8907" xlink:type="simple" xlink:actuate="onLoad" id="XMLID_2_" xlink:show="other">
+                            <stop stop-color="#ffffff" offset="0"/>
+                            <stop stop-color="#ffffff" offset="1"/>
+                        </linearGradient>
+                    </defs>
+                </g>
+            </g>
+        </g>
+    </switch>
+</svg>

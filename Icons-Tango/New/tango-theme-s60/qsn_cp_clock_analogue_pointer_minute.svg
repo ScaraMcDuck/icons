@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="text/ecmascript" width="96" baseProfile="tiny" zoomAndPan="magnify" contentStyleType="text/css" viewBox="0 0 96 96" height="96" preserveAspectRatio="xMidYMid meet" version="1.0">
+    <defs>
+        <radialGradient gradientUnits="userSpaceOnUse" xlink:type="simple" r="29.889715" xlink:actuate="onLoad" cx="8.7468252" cy="6.8283234" xlink:show="other" fx="8.7468252" fy="6.8283234">
+            <stop stop-opacity="1.0000000" stop-color="#9497b3" offset="0.0000000"/>
+            <stop stop-opacity="1.0000000" stop-color="#4c4059" offset="1.0000000"/>
+        </radialGradient>
+        <linearGradient x1="19.667364" y1="4.2570662" x2="20.329933" gradientUnits="userSpaceOnUse" y2="5.2845874" xlink:type="simple" xlink:actuate="onLoad" xlink:show="other">
+            <stop stop-opacity="1" stop-color="#c4a000" offset="0"/>
+            <stop stop-opacity="0" stop-color="#c4a000" offset="1"/>
+        </linearGradient>
+        <radialGradient gradientTransform="matrix(3.63042,0,0,3.742066,-61.48607,-29.18618)" gradientUnits="userSpaceOnUse" xlink:type="simple" r="3.3478092" xlink:actuate="onLoad" cx="23.375" cy="10.972863" xlink:show="other" fx="23.375" fy="10.972863">
+            <stop stop-opacity="1" stop-color="#c4a000" offset="0"/>
+            <stop stop-opacity="0" stop-color="#c4a000" offset="1"/>
+        </radialGradient>
+        <linearGradient x1="6.3422160" y1="7.7893324" x2="22.218424" gradientUnits="userSpaceOnUse" y2="25.884274" xlink:type="simple" xlink:actuate="onLoad" xlink:show="other">
+            <stop stop-opacity="1.0000000" stop-color="#a0a0a0" offset="0.0000000"/>
+            <stop stop-opacity="1.0000000" stop-color="#ffffff" offset="1.0000000"/>
+        </linearGradient>
+        <radialGradient gradientUnits="userSpaceOnUse" xlink:type="simple" r="29.292715" xlink:actuate="onLoad" cx="11.901996" cy="10.045444" xlink:show="other" fx="11.901996" fy="10.045444">
+            <stop stop-opacity="1.0000000" stop-color="#fffffd" offset="0.0000000"/>
+            <stop stop-opacity="1.0000000" stop-color="#cbcbc9" offset="1.0000000"/>
+        </radialGradient>
+        <radialGradient gradientUnits="userSpaceOnUse" xlink:type="simple" r="15.532059" xlink:actuate="onLoad" cx="11.329200" cy="10.583970" xlink:show="other" fx="11.329200" fy="10.583970">
+            <stop stop-opacity="1.0000000" stop-color="#f3f4ff" offset="0.0000000"/>
+            <stop stop-opacity="1.0000000" stop-color="#9193af" offset="1.0000000"/>
+        </radialGradient>
+        <linearGradient x1="8.9156475" gradientTransform="matrix(3.123841,0,0,0.969691,-31.88758,-19.59492)" y1="37.197018" x2="9.8855033" gradientUnits="userSpaceOnUse" y2="52.090678" xlink:type="simple" xlink:actuate="onLoad" xlink:show="other">
+            <stop stop-opacity="1.0000000" stop-color="#9aa29a" offset="0.0000000"/>
+            <stop stop-opacity="1.0000000" stop-color="#b5beb5" offset="1.0000000"/>
+        </linearGradient>
+        <radialGradient gradientUnits="userSpaceOnUse" xlink:type="simple" r="8.6620579" xlink:actuate="onLoad" cx="31.112698" cy="19.008621" xlink:show="other" fx="31.112698" fy="19.008621">
+            <stop stop-opacity="1" stop-color="#000000" offset="0"/>
+            <stop stop-opacity="0" stop-color="#000000" offset="1"/>
+        </radialGradient>
+        <linearGradient xlink:type="simple" xlink:actuate="onLoad" xlink:show="other">
+            <stop stop-opacity="1" stop-color="#000000" offset="0"/>
+            <stop stop-opacity="0" stop-color="#000000" offset="1"/>
+        </linearGradient>
+        <linearGradient xlink:type="simple" xlink:actuate="onLoad" xlink:show="other">
+            <stop stop-opacity="1.0000000" stop-color="#9aa29a" offset="0.0000000"/>
+            <stop stop-opacity="1.0000000" stop-color="#b5beb5" offset="1.0000000"/>
+        </linearGradient>
+        <linearGradient xlink:type="simple" xlink:actuate="onLoad" xlink:show="other">
+            <stop stop-opacity="1.0000000" stop-color="#9497b3" offset="0.0000000"/>
+            <stop stop-opacity="1.0000000" stop-color="#4c4059" offset="1.0000000"/>
+        </linearGradient>
+        <linearGradient xlink:type="simple" xlink:actuate="onLoad" xlink:show="other">
+            <stop stop-opacity="1.0000000" stop-color="#fffffd" offset="0.0000000"/>
+            <stop stop-opacity="1.0000000" stop-color="#cbcbc9" offset="1.0000000"/>
+        </linearGradient>
+        <linearGradient xlink:type="simple" xlink:actuate="onLoad" xlink:show="other">
+            <stop stop-opacity="1.0000000" stop-color="#a0a0a0" offset="0.0000000"/>
+            <stop stop-opacity="1.0000000" stop-color="#ffffff" offset="1.0000000"/>
+        </linearGradient>
+        <linearGradient xlink:type="simple" xlink:actuate="onLoad" xlink:show="other">
+            <stop stop-opacity="1.0000000" stop-color="#f3f4ff" offset="0.0000000"/>
+            <stop stop-opacity="1.0000000" stop-color="#9193af" offset="1.0000000"/>
+        </linearGradient>
+        <radialGradient gradientUnits="userSpaceOnUse" xlink:type="simple" r="14.375000" xlink:actuate="onLoad" cx="55.000000" cy="125.00000" xlink:show="other" fx="55.000000" fy="125.00000">
+            <stop stop-opacity="1.0000000" stop-color="#ffffff" offset="0.0000000"/>
+            <stop stop-opacity="0.89108908" stop-color="#fff520" offset="0.50000000"/>
+            <stop stop-opacity="0.0000000" stop-color="#fff300" offset="1.0000000"/>
+        </radialGradient>
+        <linearGradient xlink:type="simple" xlink:actuate="onLoad" xlink:show="other">
+            <stop stop-opacity="1.0000000" stop-color="#ffffff" offset="0.0000000"/>
+            <stop stop-opacity="0.89108908" stop-color="#fff520" offset="0.50000000"/>
+            <stop stop-opacity="0.0000000" stop-color="#fff300" offset="1.0000000"/>
+        </linearGradient>
+        <linearGradient xlink:type="simple" xlink:actuate="onLoad" xlink:show="other">
+            <stop stop-opacity="1" stop-color="#c4a000" offset="0"/>
+            <stop stop-opacity="0" stop-color="#c4a000" offset="1"/>
+        </linearGradient>
+        <linearGradient xlink:type="simple" xlink:actuate="onLoad" xlink:show="other">
+            <stop stop-opacity="1" stop-color="#c4a000" offset="0"/>
+            <stop stop-opacity="0" stop-color="#c4a000" offset="1"/>
+        </linearGradient>
+    </defs>
+    <g>
+        <rect width="96" fill="none" height="96"/>
+    </g>
+    <path stroke-linecap="round" fill="none" fill-rule="evenodd" stroke-linejoin="miter" stroke-dasharray="none" d="M 47.95 16.950233 L 47.95 41.04992 " stroke="#000000" stroke-width="1.90015674" stroke-opacity="1" stroke-miterlimit="4"/>
+</svg>

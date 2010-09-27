@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>tango-theme-s60</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jem.workbench.JavaEMFNature</nature>
+		<nature>com.nokia.tools.content.core.S60DesignNature</nature>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+		<nature>org.eclipse.jem.beaninfo.BeanInfoNature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>tango-theme-s60.tdf</name>
+			<type>1</type>
+			<location>D:/MyDocuments/NokiaThemesProject/tango-theme-s60/tango-theme-s60.tdf</location>
+		</link>
+	</linkedResources>
+</projectDescription>

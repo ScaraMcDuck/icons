@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="text/ecmascript" width="216" baseProfile="tiny" zoomAndPan="magnify" contentStyleType="text/css" viewBox="0 0 216 260.001" height="260.001" preserveAspectRatio="xMidYMid meet" version="1.0">
+    <defs>
+        <linearGradient xlink:type="simple" xlink:actuate="onLoad" xlink:show="other">
+            <stop stop-opacity="0.6901961" stop-color="#ffffff" offset="0"/>
+            <stop stop-opacity="0.24705882" stop-color="#ffffff" offset="1"/>
+        </linearGradient>
+        <linearGradient x1="8" y1="130.001" x2="208" gradientUnits="userSpaceOnUse" y2="130.001" xlink:type="simple" xlink:actuate="onLoad" xlink:show="other">
+            <stop stop-opacity="0.6901961" stop-color="#ffffff" offset="0"/>
+            <stop stop-opacity="0.24705882" stop-color="#ffffff" offset="1"/>
+        </linearGradient>
+        <linearGradient x1="8" gradientTransform="matrix(1,0,0,1.0166666,0,-4.1666866)" y1="10.001003" x2="87.629166" gradientUnits="userSpaceOnUse" y2="187.09117" xlink:type="simple" xlink:actuate="onLoad" id="linearGradient3173" xlink:show="other">
+            <stop stop-opacity="0.24742268" stop-color="#ffffff" offset="0"/>
+            <stop stop-opacity="0.05154639" stop-color="#ffffff" offset="1"/>
+        </linearGradient>
+    </defs>
+    <rect fill-opacity="1" display="inline" stroke="#eeeeec" visibility="visible" stroke-linecap="butt" width="213.42781" stroke-miterlimit="4" stroke-opacity="1" fill="#2e3436" stroke-dasharray="none" stroke-width="2.57219338" color="#000000" height="257.4278" x="1.2860967" stroke-linejoin="miter" rx="1.1020862" y="1.2871045" ry="1.2897581" stroke-dashoffset="0" fill-rule="nonzero"/>
+    <path fill-opacity="1" display="inline" stroke="none" d="M 9.032749 6.001 L 206.96724 6.001 C 207.5394 6.001 208.0 6.546227 208.0 7.223483 C 155.9103 179.13904 58.755928 87.0071 9.032749 250.001 C 8.460606 250.001 8.0 249.45578 8.0 248.77852 L 8.0 7.223483 C 8.0 6.546227 8.460606 6.001 9.032749 6.001 z " visibility="visible" stroke-linecap="butt" stroke-miterlimit="4" stroke-opacity="1" fill="url(#linearGradient3173)" stroke-width="2.40837479" color="#000000" stroke-linejoin="miter" stroke-dashoffset="0" fill-rule="nonzero"/>
+</svg>
