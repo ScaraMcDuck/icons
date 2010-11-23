@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<xmap-content xmlns="urn:xmind:xmap:xmlns:content:2.0" xmlns:fo="http://www.w3.org/1999/XSL/Format"
+	xmlns:svg="http://www.w3.org/2000/svg" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink"
+	version="2.0">
+	<sheet id="5r1skr3m2feop4a55paggja1kk">
+		<topic id="0ak64ddlh6skkcfvp376m1ceev" structure-class="org.xmind.ui.map.clockwise" timestamp="1290515432044">
+			<title>Scrooge McDuck</title>
+			<children>
+				<topics type="attached">
+					<topic id="3bt49hu5ncs6t748nrf04a5cn9" timestamp="1290515185600">
+						<title>1877</title>
+						<xhtml:img align="top" svg:height="400" svg:width="268" xhtml:src="xap:attachments/27runmohcmlhf4p668ft6oqinm.jpg" />
+					</topic>
+					<topic id="1ogcur97bhl902ljugi9u4pg3a" timestamp="1290515141786">
+						<title>1880</title>
+						<xhtml:img svg:height="400" svg:width="268" xhtml:src="xap:attachments/24k5nrbb625spdjisj5nftlq0s.jpg" />
+					</topic>
+					<topic id="128bhm3275mqcs469hhc9t5kev" timestamp="1290515335448">
+						<title svg:width="154">1882</title>
+						<xhtml:img svg:height="400" svg:width="268" xhtml:src="xap:attachments/47uackoh5g8j2vclmneg0dfdae.jpg" />
+					</topic>
+					<topic id="4giu3is45mgl97lo0ip6b47ust" timestamp="1290515361339" xlink:href="xap:attachments/2c1m1s9etin11qv8c1bm2dupq0.zip">
+						<title>ScroogeMcDuck.zip</title>
+					</topic>
+					<topic id="23cdscc65vlfomka928jfve7ij" timestamp="1290515441216">
+						<title>1884</title>
+						<children>
+							<topics type="attached">
+								<topic id="4ktevv0uktnboseeq25ttkdm8i" timestamp="1290515441216" xlink:href="xap:attachments/5cdq8ph93vomi4g1vfgeop0vpr.jpg">
+									<title>ScroogeMcDuck_1884.jpg</title>
+								</topic>
+							</topics>
+						</children>
+					</topic>
+				</topics>
+			</children>
+		</topic>
+		<title>Sheet 1</title>
+	</sheet>
+</xmap-content>
